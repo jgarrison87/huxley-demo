@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)https://huxleysaga.com/ -->
+<html lang=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Welcome to the world of Huxley. Dive into the epic saga a decade in the making."><style type="text/css">svg:not(:root).svg-inline--fa {
+  overflow: visible;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.225em;
+}
+.svg-inline--fa.fa-w-1 {
+  width: 0.0625em;
+}
+.svg-inline--fa.fa-w-2 {
+  width: 0.125em;
+}
+.svg-inline--fa.fa-w-3 {
+  width: 0.1875em;
+}
+.svg-inline--fa.fa-w-4 {
+  width: 0.25em;
+}
+.svg-inline--fa.fa-w-5 {
+  width: 0.3125em;
+}
+.svg-inline--fa.fa-w-6 {
+  width: 0.375em;
+}
+.svg-inline--fa.fa-w-7 {
+  width: 0.4375em;
+}
+.svg-inline--fa.fa-w-8 {
+  width: 0.5em;
+}
+.svg-inline--fa.fa-w-9 {
+  width: 0.5625em;
+}
+.svg-inline--fa.fa-w-10 {
+  width: 0.625em;
+}
+.svg-inline--fa.fa-w-11 {
+  width: 0.6875em;
+}
+.svg-inline--fa.fa-w-12 {
+  width: 0.75em;
+}
+.svg-inline--fa.fa-w-13 {
+  width: 0.8125em;
+}
+.svg-inline--fa.fa-w-14 {
+  width: 0.875em;
+}
+.svg-inline--fa.fa-w-15 {
+  width: 0.9375em;
+}
+.svg-inline--fa.fa-w-16 {
+  width: 1em;
+}
+.svg-inline--fa.fa-w-17 {
+  width: 1.0625em;
+}
+.svg-inline--fa.fa-w-18 {
+  width: 1.125em;
+}
+.svg-inline--fa.fa-w-19 {
+  width: 1.1875em;
+}
+.svg-inline--fa.fa-w-20 {
+  width: 1.25em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: 0.3em;
+  width: auto;
+}
+.svg-inline--fa.fa-border {
+  height: 1.5em;
+}
+.svg-inline--fa.fa-li {
+  width: 2em;
+}
+.svg-inline--fa.fa-fw {
+  width: 1.25em;
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: #ff253a;
+  border-radius: 1em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #fff;
+  height: 1.5em;
+  line-height: 1;
+  max-width: 5em;
+  min-width: 1.5em;
+  overflow: hidden;
+  padding: 0.25em;
+  right: 0;
+  text-overflow: ellipsis;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: 0;
+  right: 0;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: 0;
+  left: 0;
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  right: 0;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: 0;
+  right: auto;
+  top: 0;
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-lg {
+  font-size: 1.3333333333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
+
+.fa-border {
+  border: solid 0.08em #eee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.25em 0.15em;
+}
+
+.fa-pull-left {
+  float: left;
+}
+
+.fa-pull-right {
+  float: right;
+}
+
+.fa.fa-pull-left,
+.fas.fa-pull-left,
+.far.fa-pull-left,
+.fal.fa-pull-left,
+.fab.fa-pull-left {
+  margin-right: 0.3em;
+}
+.fa.fa-pull-right,
+.fas.fa-pull-right,
+.far.fa-pull-right,
+.fal.fa-pull-right,
+.fab.fa-pull-right {
+  margin-left: 0.3em;
+}
+
+.fa-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+          animation: fa-spin 2s infinite linear;
+}
+
+.fa-pulse {
+  -webkit-animation: fa-spin 1s infinite steps(8);
+          animation: fa-spin 1s infinite steps(8);
+}
+
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-flip-both {
+  -webkit-filter: none;
+          filter: none;
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: #fff;
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: 0.4;
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: 1;
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse {
+  color: #fff;
+}</style><link rel="icon" href="https://huxleysaga.com/favicon.ico"><title>HUXLEY Comics</title><link href="./client2_files/app.602bc289.css" rel="preload" as="style"><link href="./client2_files/chunk-vendors.38d90340.css" rel="preload" as="style"><link href="./client2_files/app.c0cb0a5b.js.download" rel="preload" as="script"><link href="./client2_files/chunk-vendors.4b538b6b.js.download" rel="preload" as="script"><link href="./client2_files/chunk-vendors.38d90340.css" rel="stylesheet"><link href="./client2_files/app.602bc289.css" rel="stylesheet"><style data-styled="active" data-styled-version="5.2.0"></style><style type="text/css">
+.vue-notification-group {
+  display: block;
+  position: fixed;
+  z-index: 5000;
+}
+.vue-notification-wrapper {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.notification-title {
+  font-weight: 600;
+}
+.vue-notification-template {
+  display: block;
+  box-sizing: border-box;
+  background: white;
+  text-align: left;
+}
+.vue-notification {
+  display: block;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 12px;
+  padding: 10px;
+  margin: 0 5px 5px;
+
+  color: white;
+  background: #44A4FC;
+  border-left: 5px solid #187FE7;
+}
+.vue-notification.warn {
+  background: #ffb648;
+  border-left-color: #f48a06;
+}
+.vue-notification.error {
+  background: #E54D42;
+  border-left-color: #B82E24;
+}
+.vue-notification.success {
+  background: #68CD86;
+  border-left-color: #42A85F;
+}
+.vn-fade-enter-active, .vn-fade-leave-active, .vn-fade-move  {
+  transition: all .5s;
+}
+.vn-fade-enter-from, .vn-fade-leave-to {
+  opacity: 0;
+}
+
+</style></head><body><noscript><strong>We're sorry but HUXLEY Comics doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app" data-v-app=""><div id="app"><div><div class="vue-notification-group" style="width: 400px; top: 0px; right: 0px;"><span></span></div><div class="wrapper" data-v-0e70551b=""><header class="header" data-v-0e70551b=""><a aria-current="page" href="https://huxleysaga.com/" class="router-link-active router-link-exact-active logo" data-v-0e70551b=""><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAAAcCAYAAAB4fbODAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAPuSURBVHgB7ZzxddowEMY/+vp/M4I3aDtB3QmaThAyQZIJAhM0maB0grBByQTNBnEnaDpBemfOiWsMzzqdQMD93tMzOEEGnU/6dCcZcBxnZ4yen59LOv5EOLPRaHTePUn1jenwHTrqOqmOG3r9BeEs+r6TfK87OnyAjiuqd051TOj1NXRMqY4JXr/PGPp24t/5OcJ2L3VAAV2Xr1kiHwoq/Fu0tjmntli0T9BvLKC3z33b1pt4izw5wbJRQykS1Nl8FtyoZBjuGDSOfE2f5Q6moiPXp71Znqicw/kPatcZtesFdLY5pbLonCuh72QG2+cNnFBibv6mR+UbpYAOHkkrOH1cQceZdIptYpRONfSf3QEDocZ9oMMUOkoy9CUdJ9DBsvEGTi8iIxcIh51v3LwhG/EoWiCcaqj0bHAHVCCN/AAd36DDpecwtG3UjjlcQEfwnNodUM+2ncGl5wCkjW4RTilBrfo1wplp7OMOqESkqHbOEYpLzzAmWCqGUE4lOl0gjArKaYk7YATiFAukxaVnIGQXbjPNKHgGnfxUq5Nc0xD7BDvHL0iqIgGHJj1VucdNUPv87jnNnSM7VIHhsA1D0xgsPWdQEuOAJ5Ks7PIOR4Tk9Vh+aIMrm5gdmvTsJrwTXueJ7MKdo3ahwhB4pNVGxGtiHPBUytHDTiIJ+hJ2VIg0bo7IKhprxn2jIDs7XW+BdKt2bmPViUtQO6yl6KFGPUtsl2miawbn/PrwIIwR4ixWI1bUvMJ5RSTvD9hjMpd1BzRE5mua8HeXFDfMMTOBjV0abq3UiTugITTf4PWDFhJUuw7R6SEiOd9HBf1SwhXcAY2QiPAENjRrRh07rNTJVPKMJrgD2mEd3btek+ZxFIjTxK5cMp+bx0RB+Qf1LUjWJDP3GpGeBWzhduTtS+aJ6x2TIrXyd8g/yZ7BGFtZydgXYhxwnmBH/N5hLD271FI0UTL+RDHCPsXKL4vQ/Q75A2MOLQ/IN+zjmr+lWiqWcqUFw1J0niAnyCrlMfAzM0SuS5XHelhzYzkv2yaHmIgvsCUSSc8um6ToPt50KSK83D576YAehFGSWHp2WRcVrbCnN56zJFcHnCN/UkvPLitR0YhtN84W4A2+rVK0NvzWj73g59Bk6YD8CECk32enJlJ6ajuXRop24QBNBScr5CFPBZY2K6TctR7+VD8mM2cJypP9CpkRKT15Ae9X6J1wRYrKKMh1uhTNCLaL5Ayr5kiFd2xcSqaA3+c7B5SoHwceKuRFjPRsAincuWgdpk+KPkjd7oR5w7tl3lP5ROWeT2QdhGk5YRaLk2OTuE0qIXJVRq8UFSf8iIylu1Nz337zD0sfYXiCgiKfAAAAAElFTkSuQmCC" alt=""></a><div class="header__nav-holder" data-v-0e70551b=""><nav class="nav" data-v-0e70551b=""><ul data-v-0e70551b=""><li data-v-0e70551b=""><a href="https://huxleysaga.com/#check-token" data-v-0e70551b="">Check Token</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/avatars" class="" data-v-0e70551b="">Avatars</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/auction-details-2" class="" data-v-0e70551b="">Auction</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/collection" class="" data-v-0e70551b="">Collection</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/faq" class="" data-v-0e70551b="">FAQ</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/about" class="" data-v-0e70551b="">About</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/tokenomics-3" class="" data-v-0e70551b="">Tokenomics</a></li></ul></nav><nav class="nav-secondary" data-v-0e70551b=""><ul data-v-0e70551b=""><li data-v-0e70551b=""><div data-v-0e70551b=""><div><button class="btn header__btn btn--red">Connected</button></div><!----></div></li></ul></nav></div><a href="https://huxleysaga.com/#" class="nav-trigger" data-v-0e70551b=""><span data-v-0e70551b=""></span><span data-v-0e70551b=""></span><span data-v-0e70551b=""></span></a></header><!----><div class="main"><img src="./client2_files/file.86c51b3f.jpg" alt="" style="display: none;"><img src="./client2_files/file.d3d5c206.gif" alt="" style="display: none;"><div><div class="hero"><div class="slider"><div class="slider__clip"><div class="slider__slides"><div class="slider__slide"><video id="my-video" class="video-js bigPayButton" controls="" preload="auto" poster="/img/slider-image-1.df42a050.png" data-setup="{}" controlslist="nodownload" style="cursor: pointer; width: 100%;"><source src="https://firebasestorage.googleapis.com/v0/b/huxley-production.appspot.com/o/HUXLEY_Yellow%20Credits.mp4?alt=media" type="video/mp4"></video></div></div></div></div></div></div><section class="section section--offset-bottom" data-v-0c54c570=""><div class="section__inner" data-v-0c54c570=""><!----><div class="section__body" data-v-0c54c570=""><div class="characters" data-v-0c54c570=""><div class="grid characters__grid" data-v-0c54c570=""><div class="grid__col characters__col grid__col--1of6" data-v-0c54c570=""><div class="character character--active" data-v-0c54c570=""><div class="character__image"><img src="./client2_files/character-image-1.62133b94.jpg" alt=""><a href="https://huxleysaga.com/#" class="btn btn--border-red character__btn">Coming soon</a><small style="display: none;"></small><a href="https://huxleysaga.com/#" class="character__ico"><img alt=""></a></div><div class="character__content"><h6>Issue 1</h6><p><span>Edition of 10,000</span><img alt="" style="display: none;"></p></div><!----></div></div><div class="grid__col characters__col grid__col--1of6" data-v-0c54c570=""><div class="character character--active" data-v-0c54c570=""><div class="character__image"><img src="./client2_files/character-image-2.4dff8d06.png" alt=""><a href="https://huxleysaga.com/#" class="btn btn--border-red character__btn">Coming soon</a><small style="display: none;"></small><a href="https://huxleysaga.com/#" class="character__ico"><img alt=""></a></div><div class="character__content"><h6>Issue 2</h6><p><span>Edition of 10,000</span><img alt="" style="display: none;"></p></div><!----></div></div><div class="grid__col characters__col grid__col--1of6" data-v-0c54c570=""><div class="character character--active" data-v-0c54c570=""><div class="character__image"><img src="./client2_files/character-image-3.0cb4af39.jpg" alt=""><a href="https://huxleysaga.com/#" class="btn btn--border-red character__btn">Coming soon</a><small style="display: none;"></small><a href="https://huxleysaga.com/#" class="character__ico"><img alt=""></a></div><div class="character__content"><h6>Issue 3</h6><p><span>Edition of 10,000</span><img alt="" style="display: none;"></p></div><!----></div></div><div class="grid__col characters__col grid__col--1of6" data-v-0c54c570=""><div class="character" data-v-0c54c570=""><div class="character__image"><img src="./client2_files/character-image-4.5769dc48.jpg" alt=""><a href="https://huxleysaga.com/#" class="btn btn--border-red character__btn">Coming soon</a><small style="display: none;"></small><a href="https://huxleysaga.com/#" class="character__ico"><img alt=""></a></div><div class="character__content"><h6>Issue 4</h6><p><span>Edition</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAANCAYAAADRw4K6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFF2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgMTE2LjE2NDc2NiwgMjAyMS8wMi8xOS0yMzoxMDowNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjIgKFdpbmRvd3MpIiB4bXA6Q3JlYXRlRGF0ZT0iMjAyMS0xMC0wMVQxMDozNDo0NiswMzowMCIgeG1wOk1vZGlmeURhdGU9IjIwMjEtMTAtMDFUMTA6Mzc6NTkrMDM6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjEtMTAtMDFUMTA6Mzc6NTkrMDM6MDAiIGRjOmZvcm1hdD0iaW1hZ2UvcG5nIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0ic1JHQiBJRUM2MTk2Ni0yLjEiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDBmOWY0YzQtNTQ4Zi04NzRiLTgxZTItYjQzNjYzODQ5N2QxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjQwZjlmNGM0LTU0OGYtODc0Yi04MWUyLWI0MzY2Mzg0OTdkMSIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOjQwZjlmNGM0LTU0OGYtODc0Yi04MWUyLWI0MzY2Mzg0OTdkMSI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NDBmOWY0YzQtNTQ4Zi04NzRiLTgxZTItYjQzNjYzODQ5N2QxIiBzdEV2dDp3aGVuPSIyMDIxLTEwLTAxVDEwOjM0OjQ2KzAzOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoV2luZG93cykiLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Mbr8qAAAA6ZJREFUWIW9ly+UIkcQxn+1L2axWC4Sm5UhcYcFuZwEy1nk7bmN5OStvEWGSJBHXHYskcHeysOy8ovoaqZphlnukrf13jyYnur681XV1zPGC4ikJvBkZruX8Pd/iaQW8ORXC9ia2TbX++EFAmkAE6ApaWZmD9+x/2dCEQpfuwKugLWZrc+00TKzzTf47QM9oACaQBtYSFoDvwKfI6AnQZQ0ARrAJzN79Kq8qlB9AnbAY1WnmdlO0pQA5FAS5wKZFKAFPACFxzF2lc+Z/sj/LrKO6QADSYWZ3Z/ht00AcAt89f1b4E/ghgDqX1G/EkRJAwLyazN79OW+J5NLw6+dpHcngNx+K5A5gGY2c1qYuMo8iS3KDuh6ktPE/0pSB+hIqu1e9zGKPoCB/18ktovU90WFkY4rb4FZ8miWXHdm9g74QOhEgGUd53lnfPREh17tOhlSDWDDEyok9Tze6GMObIC2pG5mbx7tuq1T8pYA1IIweU3gH7fbc51FuuEARK9+PypmoFx7EhPgvaQxoUqxMquawGKSj8Cd345PJeNx7DyGFMCmry3dd59jiokJ9txO9L0BVoQijE747RAKV/gVCzSjnICcKo7GuUcJSpEBMJO0TJbaHsyWrDJ1YmYbSXFMJpJu8w72+5kndgSgk36HcFrOK+yvCQdPj7IDMbO5T0BbUt/MFtneQtLG6WcUsSBMWyz4AS6QdKIH28U74AQA6RG/54qqY79KJHUlvScAv/LAxjX6DcrxWiUARtKfntg69zy6FbRx5896VZTiALYoD5M4kXHSJmmHw+E4x3Zd1oGSc1Pesc/sGxDG5UvGX4MT28auv/Yu+oVDAJ/yhGDPv3Fq3khqSOpIeuNrsTtHVfsJhYOkQTzeByoKf+EJ9v3h9gxuizy4dm46VyLXFkmR7giAdD2Gvfh925/PvDuGlABeAr8BN1Xc6nlsCEV4TRjJ14QG2PjV9LXcb8wvb5A/3P/BwXXhATw3HqmDK9ed1+lm+5qUJL2nCh+TKeV4XSXbfiKcilPXe+t6H70I/ey+Sn733y7whZJCRsC9P+vHIiRYUJWfxxH3DbywmKQbwgl3Xzeazh8TD/zWk/zRH3+t60oH55rQhUd6me3Kd01Jje/5bJTUIwC+MbNpkm8sZpeQ+99+mHQo3wCes7kFbk3SkPC1UTvGkq4JXbj0Uyye5BA+yc7uzBP2m8BlxQv0fxLnvB7seS0W7egLS9IrwufhszzvjXFpZsW/oW4m5f1l0FQAAAAASUVORK5CYII=" alt=""></p></div><!----></div></div><div class="grid__col characters__col grid__col--1of6" data-v-0c54c570=""><div class="character" data-v-0c54c570=""><div class="character__image"><img src="./client2_files/character-image-5.0929042a.jpg" alt=""><a href="https://huxleysaga.com/#" class="btn btn--border-red character__btn">Coming soon</a><small style="display: none;"></small><a href="https://huxleysaga.com/#" class="character__ico"><img alt=""></a></div><div class="character__content"><h6>Issue 5</h6><p><span>Edition</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAANCAYAAADRw4K6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFF2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgMTE2LjE2NDc2NiwgMjAyMS8wMi8xOS0yMzoxMDowNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjIgKFdpbmRvd3MpIiB4bXA6Q3JlYXRlRGF0ZT0iMjAyMS0xMC0wMVQxMDozNDo0NiswMzowMCIgeG1wOk1vZGlmeURhdGU9IjIwMjEtMTAtMDFUMTA6Mzc6NTkrMDM6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjEtMTAtMDFUMTA6Mzc6NTkrMDM6MDAiIGRjOmZvcm1hdD0iaW1hZ2UvcG5nIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0ic1JHQiBJRUM2MTk2Ni0yLjEiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDBmOWY0YzQtNTQ4Zi04NzRiLTgxZTItYjQzNjYzODQ5N2QxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjQwZjlmNGM0LTU0OGYtODc0Yi04MWUyLWI0MzY2Mzg0OTdkMSIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOjQwZjlmNGM0LTU0OGYtODc0Yi04MWUyLWI0MzY2Mzg0OTdkMSI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NDBmOWY0YzQtNTQ4Zi04NzRiLTgxZTItYjQzNjYzODQ5N2QxIiBzdEV2dDp3aGVuPSIyMDIxLTEwLTAxVDEwOjM0OjQ2KzAzOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoV2luZG93cykiLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Mbr8qAAAA6ZJREFUWIW9ly+UIkcQxn+1L2axWC4Sm5UhcYcFuZwEy1nk7bmN5OStvEWGSJBHXHYskcHeysOy8ovoaqZphlnukrf13jyYnur681XV1zPGC4ikJvBkZruX8Pd/iaQW8ORXC9ia2TbX++EFAmkAE6ApaWZmD9+x/2dCEQpfuwKugLWZrc+00TKzzTf47QM9oACaQBtYSFoDvwKfI6AnQZQ0ARrAJzN79Kq8qlB9AnbAY1WnmdlO0pQA5FAS5wKZFKAFPACFxzF2lc+Z/sj/LrKO6QADSYWZ3Z/ht00AcAt89f1b4E/ghgDqX1G/EkRJAwLyazN79OW+J5NLw6+dpHcngNx+K5A5gGY2c1qYuMo8iS3KDuh6ktPE/0pSB+hIqu1e9zGKPoCB/18ktovU90WFkY4rb4FZ8miWXHdm9g74QOhEgGUd53lnfPREh17tOhlSDWDDEyok9Tze6GMObIC2pG5mbx7tuq1T8pYA1IIweU3gH7fbc51FuuEARK9+PypmoFx7EhPgvaQxoUqxMquawGKSj8Cd345PJeNx7DyGFMCmry3dd59jiokJ9txO9L0BVoQijE747RAKV/gVCzSjnICcKo7GuUcJSpEBMJO0TJbaHsyWrDJ1YmYbSXFMJpJu8w72+5kndgSgk36HcFrOK+yvCQdPj7IDMbO5T0BbUt/MFtneQtLG6WcUsSBMWyz4AS6QdKIH28U74AQA6RG/54qqY79KJHUlvScAv/LAxjX6DcrxWiUARtKfntg69zy6FbRx5896VZTiALYoD5M4kXHSJmmHw+E4x3Zd1oGSc1Pesc/sGxDG5UvGX4MT28auv/Yu+oVDAJ/yhGDPv3Fq3khqSOpIeuNrsTtHVfsJhYOkQTzeByoKf+EJ9v3h9gxuizy4dm46VyLXFkmR7giAdD2Gvfh925/PvDuGlABeAr8BN1Xc6nlsCEV4TRjJ14QG2PjV9LXcb8wvb5A/3P/BwXXhATw3HqmDK9ed1+lm+5qUJL2nCh+TKeV4XSXbfiKcilPXe+t6H70I/ey+Sn733y7whZJCRsC9P+vHIiRYUJWfxxH3DbywmKQbwgl3Xzeazh8TD/zWk/zRH3+t60oH55rQhUd6me3Kd01Jje/5bJTUIwC+MbNpkm8sZpeQ+99+mHQo3wCes7kFbk3SkPC1UTvGkq4JXbj0Uyye5BA+yc7uzBP2m8BlxQv0fxLnvB7seS0W7egLS9IrwufhszzvjXFpZsW/oW4m5f1l0FQAAAAASUVORK5CYII=" alt=""></p></div><div class="character__actions"><a href="https://huxleysaga.com/comic/issue1/3579" class=""></a></div></div></div><div class="grid__col characters__col grid__col--1of6" data-v-0c54c570=""><div class="character" data-v-0c54c570=""><div class="character__image"><img src="./client2_files/character-image-6.384f5613.jpg" alt=""><a href="https://huxleysaga.com/#" class="btn btn--border-red character__btn">Coming soon</a><small style="display: none;"></small><a href="https://huxleysaga.com/#" class="character__ico"><img alt=""></a></div><div class="character__content"><h6>Issue 6</h6><p><span>Edition</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAANCAYAAADRw4K6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFF2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgMTE2LjE2NDc2NiwgMjAyMS8wMi8xOS0yMzoxMDowNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjIgKFdpbmRvd3MpIiB4bXA6Q3JlYXRlRGF0ZT0iMjAyMS0xMC0wMVQxMDozNDo0NiswMzowMCIgeG1wOk1vZGlmeURhdGU9IjIwMjEtMTAtMDFUMTA6Mzc6NTkrMDM6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjEtMTAtMDFUMTA6Mzc6NTkrMDM6MDAiIGRjOmZvcm1hdD0iaW1hZ2UvcG5nIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0ic1JHQiBJRUM2MTk2Ni0yLjEiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDBmOWY0YzQtNTQ4Zi04NzRiLTgxZTItYjQzNjYzODQ5N2QxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjQwZjlmNGM0LTU0OGYtODc0Yi04MWUyLWI0MzY2Mzg0OTdkMSIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOjQwZjlmNGM0LTU0OGYtODc0Yi04MWUyLWI0MzY2Mzg0OTdkMSI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NDBmOWY0YzQtNTQ4Zi04NzRiLTgxZTItYjQzNjYzODQ5N2QxIiBzdEV2dDp3aGVuPSIyMDIxLTEwLTAxVDEwOjM0OjQ2KzAzOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoV2luZG93cykiLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Mbr8qAAAA6ZJREFUWIW9ly+UIkcQxn+1L2axWC4Sm5UhcYcFuZwEy1nk7bmN5OStvEWGSJBHXHYskcHeysOy8ovoaqZphlnukrf13jyYnur681XV1zPGC4ikJvBkZruX8Pd/iaQW8ORXC9ia2TbX++EFAmkAE6ApaWZmD9+x/2dCEQpfuwKugLWZrc+00TKzzTf47QM9oACaQBtYSFoDvwKfI6AnQZQ0ARrAJzN79Kq8qlB9AnbAY1WnmdlO0pQA5FAS5wKZFKAFPACFxzF2lc+Z/sj/LrKO6QADSYWZ3Z/ht00AcAt89f1b4E/ghgDqX1G/EkRJAwLyazN79OW+J5NLw6+dpHcngNx+K5A5gGY2c1qYuMo8iS3KDuh6ktPE/0pSB+hIqu1e9zGKPoCB/18ktovU90WFkY4rb4FZ8miWXHdm9g74QOhEgGUd53lnfPREh17tOhlSDWDDEyok9Tze6GMObIC2pG5mbx7tuq1T8pYA1IIweU3gH7fbc51FuuEARK9+PypmoFx7EhPgvaQxoUqxMquawGKSj8Cd345PJeNx7DyGFMCmry3dd59jiokJ9txO9L0BVoQijE747RAKV/gVCzSjnICcKo7GuUcJSpEBMJO0TJbaHsyWrDJ1YmYbSXFMJpJu8w72+5kndgSgk36HcFrOK+yvCQdPj7IDMbO5T0BbUt/MFtneQtLG6WcUsSBMWyz4AS6QdKIH28U74AQA6RG/54qqY79KJHUlvScAv/LAxjX6DcrxWiUARtKfntg69zy6FbRx5896VZTiALYoD5M4kXHSJmmHw+E4x3Zd1oGSc1Pesc/sGxDG5UvGX4MT28auv/Yu+oVDAJ/yhGDPv3Fq3khqSOpIeuNrsTtHVfsJhYOkQTzeByoKf+EJ9v3h9gxuizy4dm46VyLXFkmR7giAdD2Gvfh925/PvDuGlABeAr8BN1Xc6nlsCEV4TRjJ14QG2PjV9LXcb8wvb5A/3P/BwXXhATw3HqmDK9ed1+lm+5qUJL2nCh+TKeV4XSXbfiKcilPXe+t6H70I/ey+Sn733y7whZJCRsC9P+vHIiRYUJWfxxH3DbywmKQbwgl3Xzeazh8TD/zWk/zRH3+t60oH55rQhUd6me3Kd01Jje/5bJTUIwC+MbNpkm8sZpeQ+99+mHQo3wCes7kFbk3SkPC1UTvGkq4JXbj0Uyye5BA+yc7uzBP2m8BlxQv0fxLnvB7seS0W7egLS9IrwufhszzvjXFpZsW/oW4m5f1l0FQAAAAASUVORK5CYII=" alt=""></p></div><div class="character__actions"><a href="https://huxleysaga.com/comic/issue1/3579" class=""></a></div></div></div></div></div></div></div></section><div><div style="display: none;"><article class="article"><div class="shell"><div class="article__inner"><div class="article__image"><img src="./client2_files/03_HUXLEY_cover_KARMAK_BenMauro.jpg" alt=""></div><div class="article__content"><div class="content-text" data-v-fd61d74a=""><div class="content__top" data-v-fd61d74a=""><h6 data-v-fd61d74a="">ISSUE #3</h6><h1 data-v-fd61d74a="">HUXLEY Comic</h1><p class="" data-v-fd61d74a="">Max, Kai and Huxley escape with the help of a new friend to find the advanced machines to repair his damaged memory cores. An evil force pursues them.</p><p class="danger" data-v-fd61d74a="">To access the digital download go to the Collection page, connect your wallet and click on the highlighted issue.</p></div><div data-v-fd61d74a=""><div data-v-fd61d74a="" style="display: none;"> Congratulations, you can mint a free NFT (you'll only need to pay for gas). After minting, you'll be able to purchase more once the public sale begins. </div><div data-v-fd61d74a="" style="display: none;"><div data-v-fd61d74a=""> Processing transaction. View it on <a target="_blank" href="https://etherscan.io/tx/" data-v-fd61d74a=""> etherscan </a> ... <img src="./client2_files/loading.de133faa.gif" data-v-fd61d74a="" style="height: 60px;"></div></div><div class="content__inner" data-v-fd61d74a=""><div class="select content__select" data-v-fd61d74a="" style="display: none;"><label for="select-mint" data-v-fd61d74a="">Mint</label><div class="select__inner" data-v-fd61d74a=""><select name="select-mint" id="select-mint" data-v-fd61d74a=""></select></div><p data-v-fd61d74a="">0.1 ETH<br>40 Max Total Per Wallet</p></div><div class="content__entry" data-v-fd61d74a=""><button disabled="" class="btn content__btn btn--red content__btn" data-v-fd61d74a="">Sold Out</button><div class="connect-btn-content" data-v-fd61d74a="" style="display: none;"><div><button class="btn header__btn btn--red">Connected</button></div><!----></div><div data-v-fd61d74a="" style="display: none;"><span data-v-fd61d74a="">0</span><p data-v-fd61d74a="">of 10000 available</p></div></div></div><div class="progress-bar" data-v-fd61d74a="" style="display: none;"><header class="progress__head"><h6>Issues remaining</h6><h6>10000</h6></header><div class="progress__body"><div class="progress-bar__line"><div class="progress-bar__percentage" style="width: 0%;"><span>0</span></div></div></div></div><div class="alert" data-v-fd61d74a="" style="display: none;"><p data-v-fd61d74a="">Insufficient funds in wallet</p><a href="https://huxleysaga.com/#" class="btn btn--border alert__btn" data-v-fd61d74a="">Ok</a></div></div></div></div><!----></div></div></article></div><div><article class="article"><div class="shell"><div class="article__inner"><div class="article__image"><img src="./client2_files/03_HUXLEY_cover_KARMAK_BenMauro.75c52f54.jpg" alt=""></div><div class="article__content"><div class="content-text"><div class="content__top"><h6>ISSUE #3</h6><h1>HUXLEY Comic</h1><p class="">Max, Kai and Huxley escape with the help of a new friend to find the advanced machines to repair his damaged memory cores. An evil force pursues them.</p><p class="danger">To access the digital download go to the Collection page, connect your wallet and click on the highlighted issue.</p></div><div class="sold-out-content" style="font-size: 25px;"><br>Issue 3 has <strong style="color: rgb(187, 41, 34);">SOLD OUT</strong><br><br> Check us out on <a href="https://opensea.io/collection/huxley-comics" target="_blank"><strong>OpenSea</strong></a><br><br></div></div></div></div></div></article></div><div style="display: none;"><article class="article"><div class="shell"><div class="article__inner"><div class="article__image"><img src="./client2_files/02_HUXLEY_cover_HUXLEY_BenMauro.a6f495ff.jpg" alt=""></div><div class="article__content"><div class="content-text"><div class="content__top"><h6>ISSUE #2</h6><h1>HUXLEY Comic</h1><p class="">After activating Huxley, Max and Kai discover it has coordinates to what could be a lost treasure. In order to repair his mind, they must travel into dangerous territory and meet with a gangster that controls what they need.</p><p class="danger">To access the digital download go to the Collection page, connect your wallet and click on the highlighted issue.</p></div><div class="sold-out-content" style="font-size: 25px;"><br>Issue 2 has <strong style="color: rgb(187, 41, 34);">SOLD OUT</strong><br><br> Check us out on <a href="https://opensea.io/collection/huxley-comics" target="_blank"><strong>OpenSea</strong></a><br><br></div></div></div></div></div></article></div><div style="display: none;"><article class="article"><div class="shell"><div class="article__inner"><div class="article__image"><img src="./client2_files/article-image-1.e7ca2ea3.jpg" alt=""></div><div class="article__content"><div class="content-text"><div class="content__top"><h6>ISSUE #1</h6><h1>HUXLEY Comic</h1><p class="">On a routine scavenging mission into the wastelands, Max and Kai uncover an ancient robot that could change their fortunes.....the discovery does not go unnoticed.</p><p class="danger">To access the digital download go to the Collection page, connect your wallet and click on the highlighted issue.</p></div><div class="sold-out-content" style="font-size: 25px;"><br>Issue 1 has <strong style="color: rgb(187, 41, 34);">SOLD OUT</strong><br><br> Check us out on <a href="https://opensea.io/collection/huxley-comics" target="_blank"><strong>OpenSea</strong></a><br><br></div></div></div></div></div></article></div></div><div><section class="section-images"><div class="section__inner"><div class="section__content"><ul><li><a href="./client2_files/ISSUE3_Preview_01.87c322a8.jpg"><img src="./client2_files/ISSUE3_Preview_01.87c322a8.jpg" alt=""></a></li><li><a href="./client2_files/ISSUE3_Preview_02.2e31aeb0.jpg"><img src="./client2_files/ISSUE3_Preview_02.2e31aeb0.jpg" alt=""></a></li><li><a href="./client2_files/ISSUE3_Preview_03.1a5c2ce3.jpg"><img src="./client2_files/ISSUE3_Preview_03.1a5c2ce3.jpg" alt=""></a></li><li><a href="./client2_files/ISSUE3_Preview_04.450fd497.jpg"><img src="./client2_files/ISSUE3_Preview_04.450fd497.jpg" alt=""></a></li><li><a href="./client2_files/ISSUE3_Preview_05.4b75bd23.jpg"><img src="./client2_files/ISSUE3_Preview_05.4b75bd23.jpg" alt=""></a></li></ul></div></div></section><!----></div><section class="section-grid" style="background-image: url(&quot;/img/section-image-1.7b2efda5.png&quot;);"><header class="section__head"><a aria-current="page" href="https://huxleysaga.com/" class="router-link-active router-link-exact-active logo section__logo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAAAcCAYAAAB4fbODAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAPuSURBVHgB7ZzxddowEMY/+vp/M4I3aDtB3QmaThAyQZIJAhM0maB0grBByQTNBnEnaDpBemfOiWsMzzqdQMD93tMzOEEGnU/6dCcZcBxnZ4yen59LOv5EOLPRaHTePUn1jenwHTrqOqmOG3r9BeEs+r6TfK87OnyAjiuqd051TOj1NXRMqY4JXr/PGPp24t/5OcJ2L3VAAV2Xr1kiHwoq/Fu0tjmntli0T9BvLKC3z33b1pt4izw5wbJRQykS1Nl8FtyoZBjuGDSOfE2f5Q6moiPXp71Znqicw/kPatcZtesFdLY5pbLonCuh72QG2+cNnFBibv6mR+UbpYAOHkkrOH1cQceZdIptYpRONfSf3QEDocZ9oMMUOkoy9CUdJ9DBsvEGTi8iIxcIh51v3LwhG/EoWiCcaqj0bHAHVCCN/AAd36DDpecwtG3UjjlcQEfwnNodUM+2ncGl5wCkjW4RTilBrfo1wplp7OMOqESkqHbOEYpLzzAmWCqGUE4lOl0gjArKaYk7YATiFAukxaVnIGQXbjPNKHgGnfxUq5Nc0xD7BDvHL0iqIgGHJj1VucdNUPv87jnNnSM7VIHhsA1D0xgsPWdQEuOAJ5Ks7PIOR4Tk9Vh+aIMrm5gdmvTsJrwTXueJ7MKdo3ahwhB4pNVGxGtiHPBUytHDTiIJ+hJ2VIg0bo7IKhprxn2jIDs7XW+BdKt2bmPViUtQO6yl6KFGPUtsl2miawbn/PrwIIwR4ixWI1bUvMJ5RSTvD9hjMpd1BzRE5mua8HeXFDfMMTOBjV0abq3UiTugITTf4PWDFhJUuw7R6SEiOd9HBf1SwhXcAY2QiPAENjRrRh07rNTJVPKMJrgD2mEd3btek+ZxFIjTxK5cMp+bx0RB+Qf1LUjWJDP3GpGeBWzhduTtS+aJ6x2TIrXyd8g/yZ7BGFtZydgXYhxwnmBH/N5hLD271FI0UTL+RDHCPsXKL4vQ/Q75A2MOLQ/IN+zjmr+lWiqWcqUFw1J0niAnyCrlMfAzM0SuS5XHelhzYzkv2yaHmIgvsCUSSc8um6ToPt50KSK83D576YAehFGSWHp2WRcVrbCnN56zJFcHnCN/UkvPLitR0YhtN84W4A2+rVK0NvzWj73g59Bk6YD8CECk32enJlJ6ajuXRop24QBNBScr5CFPBZY2K6TctR7+VD8mM2cJypP9CpkRKT15Ae9X6J1wRYrKKMh1uhTNCLaL5Ayr5kiFd2xcSqaA3+c7B5SoHwceKuRFjPRsAincuWgdpk+KPkjd7oR5w7tl3lP5ROWeT2QdhGk5YRaLk2OTuE0qIXJVRq8UFSf8iIylu1Nz337zD0sfYXiCgiKfAAAAAElFTkSuQmCC" alt=""></a><h1>Roadmap</h1><span class="section__subtitle section__subtitle--mobile">Phase one</span></header><div class="section__body"><div class="section__inner"><div class="shell"><div class="grid"><div class="grid__col grid__col--1of3"><div class="card"><div class="card__image"><img src="./client2_files/card-image-1.c4514a27.png" alt=""></div><div class="card__body"><h3>Huxley Comics - Digital + Physical</h3><p>Six exclusive issues. One incredible journey. Available for purchase and digital download as NFTs and redeemable for physical editions. Join the hunt to complete the saga.</p></div></div></div><div class="grid__col grid__col--1of3"><div class="card"><div class="card__image"><img src="./client2_files/card-image-4.e8076df2.png" alt=""></div><div class="card__body"><h3>Ultra Rare Gold Editions</h3><p>Like all things on Fury-7, resources are limited - especially for the Ultra Rare Gold Editions. Luck could play a role in obtaining these special edition digital + physical comics and collectibles.</p></div></div></div><div class="grid__col grid__col--1of3"><div class="card"><div class="card__image"><img src="./client2_files/card-image-3.49256cf0.png" alt=""></div><div class="card__body"><h3>Central A.I. Access Pass</h3><p>Want exclusive access to the entire Huxley universe? Central A.I. has issued a limited quantity of Access Passes. Only the most loyal will be worthy.</p></div></div></div></div></div></div><div class="section__content"><div class="shell"><span class="section__subtitle">Phase one</span><ul class="list-arrow"><li></li><li></li><li></li><li></li><li></li><li></li></ul><div class="section__entry"><div class="phase"><div class="phase__arrow"><img src="./client2_files/arrow-next-purple.f4128cdf.png" width="41" alt=""><img src="./client2_files/arrow-next.ba570304.png" width="41" alt=""></div><div class="phase__entry"><h6>PHASE TWO</h6><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABRCAYAAACJ1BvjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAnHSURBVHgB7Vw7bBTJFq3uGY/HxmPG82zANo81PB4SPLEJJEgIQYSEhEBI5IQExEhEQEYOCYSkCDJECBIBIIEQQvwW3i67Mmv+GHv8mY+795yauu2a9nx6xmN2l94rlao/VberTt9769btrnLUNyDf911kvUj9SD1I3UgJJKdWcaQFpHmkGaQpHjuO46sVJketIAGEJLIBpJyqANAWG6SZL1++fBoYGJhaSVBWBAwjCUNIg6oiAZ2iAtIEAJlWFZA6Sq7qMAGIDLL/Iq1VnQWCROn6Ac8YvXnzZlJ1mDomGWggeVES1qkVVj9DtCm/IhU7pTrLbjRAYEYJG0b6l/q2VEb6DWmmE4B0Qk0IKKXhWwNBoqqsR+oxkrlsZm0RJQJvw5mamhro7+8fVK1TuVAolB89eqTK5fJCMplMrF+/3hkZGUm02K4U0sYHDx78pCqS0raELAdNB4DQZ/hPC3xmL1265F++fLmExjvz8/NuOp1m43ns45j5wqFDh/xjx46lDh8+zI52ReSdv3Xr1m/79u0rqzapLTAokmfPnnVOnz49htO+ZuU/f/5cBgizqKPQWc1CWAEAuWa3yeF1CF753r17qe3bt9Nhi6LS71HnnfBWLVK7kuFCPXKZTGakWcG3b99O4W2p58+fs3G1Esnv7e11ZmdnVU9PjzM3N8eOO0ZSnBMnThTPnz+fVc3Vp3zjxo3/HzhwoKjaAKNlA0qp2Lt3rwsgmtqJx48f5zdu3OgZIOhil9FpinEJqQgebDQdqWIikdA5gCiuWrWqiHIlSgbrXbhwoevgwYP5YrHYTAWSaBv9G0e18aJbraAf8vLly77NmzePNSo4Pj4+t2XLlnl0TqFjC3jrBIPJM7lvjpU5lg64Jk/09fUl8vk8DSqTe+TIkdLVq1dzqrEz50M6fqJ0+HxzTvQutiwZR48edQYHBweaFCvt37+/ACDYyTKA0JJgUiGUM+n727Zt47UCRhWdA4iCkZ4SJeratWvJc+fOzTR5trNnzx62z3VaQUK1BoZ+c+vWrUtms9neRgWvX79eePr0Kd+6VglMsKTT0vESxFlLypkzZ8qm3ALqaFWCVAWq1N3dresBUF3m1KlTpY8fP843ej7ULHPx4kWXw38n/I9a5EAqEvfv31+NB/zYIP0PkkNvVHukuVxOpu0cJmkAtcirkIqaRtuqov0NqCPnIxyx+LaHICEjx48fH23Shh/v3r3bz/aqFkxB1IJBI1+8eJGFLag7isBYzm/dupWzSlEN5vqtKmv0UM2fp3Ma6/fv37sfPnxIwYB2ff36lX5HAqMZNCiTrsfgd9Do6OgkgNHPjaIxkdSE4gZx1uVh9RvWgU9RgOHT4m6lVoCQMtrAYnaq1Wf16tUlAKGBhRr4r169KjRiALVyduzYof2hqKYjstsLMLR0wCg25AzX3IPhWxgaGirjbcroYfsUrRIHBQ8dIi8tnTMzM3whDYNFBAPguWi3Z+o1fX4kyTDIRgKD7jUM7AKA8PBmlguEfrZ5vofRxhseHtaSlkqlGvJkOzHnoZpFthmtDq2RGE9OTnpjY2Pepk2bBIxlkW/iBByhJiYmyNMzc5qG9Pr1azU9Pd1ZMKgi1D9VmVBFYe7B6ntXrlxRnSBKhgHEw+hiO2t1yUhw5/0MYzw1RXkjqtpYdiYKheAN2wHD6WPojtoOhdmx2LumFBkMMoW+qiiSsXbtWoq06jTJS4HTFQkItNex6zWjyGBATRT0NUpx9e7dO/VXILTXZ7ujUlQD6otk/JkU9Q1b1HmbYYx5S4RhsJ3GNyThBx8mapWWGt6KnxFZTYSiGq5WCT5MpE5i9qttXVSK7Ge0onskY0BX5FMgJCMSyJj96jyqhC5xx83skdftBzp37txxb9++ndiwYUMjfgqzVOfkyZPu7t27k4hduvACfeMbLJvgRLmInrnPnj1z4Mc0fJGYy7hoRxJBZbVr1y4X8Vpe1u2AtPg7d+4sheuEEWbEWz4GfYuvYn8WERQ7eKzJRlc6n1XfNxAk9o9W2DGDg+6vgOEYY+ciZvC9AyGkA0yY4ru+jYhaDN4k8JVrC2aEnf56/pck2I1nsB8Sa/EDyVCLobbY0KdPnyQEqSlsM2IFBrTANbNxTXJAUBhb7EKBH+KiJhhNflaVOK2O1AdqAl9A5yqGhCi6zjv+G9PfjSAEDoJQwR83JEabVRyJ/RZ3PawmcaMqs6DBEJ2JGzF8iFCD/+TJkyD8T5Jfh1IYTTbEcDTh5wcvkIw4q4nYjLhLxi+q8mvEomSQYioZjLUERjT2fgY/U4aHVj3e0rrGiRhYtr/vBDYD4pIEIHEcTUomef+449acLBha46gmJH67hc2oinTF2ekKfrOqUpMYSoaek4lkxHpuQqKayNykSjLwqV/FjHx+ExaK9dC6Zs2an/HddknYT8UxuGP9iKsp1n5G+A+gWINh/vMIAIk1GLAXzP5RExL8KvlzuDo6rmJIxmYERtT+1hp7ir0HqiytqHK6JicnU2/evImb07UknqG/qMXNHQcQzpJ4hpzEMZ5hU9VoEseJGgPCVV/hGR2O46eCcEBYgyHz+bipifFAlayLCX6KjekvCVWz1iUxUExr/62Wsa/G34i4vPM1V1lDVWp/XpyYmODy6u/dPffRT+7/5QMILl5e/CWBK4MfPnyoI12ZTKZ7eno6lU6nk9zsQ8pwPwsh2e9C9r6w98CosR9GFQmfZvXq3Qsf222yz+122iCoyvo2SgIjXPPK+sHN/tuPqsE//tIml6XakRodBSwbiFr3bZ61AKtFtZ5brxzv9/T0eHNzcwSjgNGkCCNaMGB4wdBK1IaHh/U+F5AOriouo6JesQwmslC/bPa0qLrHY+QlHpv7JV6TY1NfynDHg5KcSznDr2R46Xs8Fx7KWkEtZaU98uxwOTvJfQChy2SzWY9rb63+V605T4yPjyegKl0oyHlKAqA4UBldAMdKjoXC18y5g1xvXZHP5/1a5fv6+qru2Xx4TBI+cqwW7Zh9vIRYv7JthuOTp/AWvqyLcw9SUQIYVcvTw/+Oa3WBhLgwMEt2MrAo3CDuqeHTg6WvIrlN4t3KfdbJ5XJcO+/X48+1K7xvcqUWNx0JcoufkvJ2m2o8W+yGbGoS/DseboALCdFDLLdqMNs1BLmq2JN06NzOu+ucd1v1wrnNv9Z5emxsrCpJO8LPkDbb9ev0I8V+ypYStdbghfeu0MmAE+RWsq+Hk75vHmZfS4Tu2fWX8LaPWZ5J2iHnchwqn7TL2jzMOTcM4NIKx95spFGEK0Cs0ZYLviioyeuUqcknWOcRumG/KVn6Xe8ZYd5mM7Wq+zXORc30Jbn3B7RUVa8VnVn8AAAAAElFTkSuQmCC" alt="" class="phase__image"><p>machine city</p><p style="display: none;">ACCESS DENIED</p><img src="./client2_files/denied.7de09973.png" alt="" style="display: none;"></div><a href="https://huxleysaga.com/#"></a></div></div></div></div><div class="section__inner"><div class="shell"><div class="grid"><div class="grid__col grid__col--1of3"><div class="card"><div class="card__image"><img src="./client2_files/card-image-2.fd0852da.png" alt=""></div><div class="card__body"><h3>Digital + Physical Collectibles</h3><p>Your favorite characters from Sector 217, available as NFT and physical collectibles. Choose from Max, Karmak, Demon, Necro Trooper, Scrape, Kai and of course Huxley, or collect them all!</p></div></div></div><div class="grid__col grid__col--1of3"><div class="card"><div class="card__image"><img src="./client2_files/card-image-5.27f1ef03.png" alt=""></div><div class="card__body"><h3>Metaverse Fashion</h3><p>Designs and fashion from the wastelands of Fury-7, wearable anywhere across the metaverse. Set your avatar apart with the latest gear from Sector 217.</p></div></div></div><div class="grid__col grid__col--1of3"><div class="card"><div class="card__image"><img src="./client2_files/card-image-6.ebeef15b.png" alt=""></div><div class="card__body"><h3>Airdrops + Giveaways</h3><p>Your journey into the Huxley universe has just begun… Who knows what you might discover. As always, Central A.I. is watching. Your loyalty just might be rewarded.</p></div></div></div></div></div></div></div></section><section class="section-tabs" style="background-image: url(&quot;/img/tab-background-1.75376198.png&quot;);"><header class="section__head"><h1>Characters</h1></header><div class="section__body"><div class="tabs js-tabs"><div class="tabs__head"><nav class="tabs__nav"><ul><li class="is-active"><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-1.fc42c915.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-2.16ad1c59.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-3.b671bd7f.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-4.d39bfb39.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-5.bac1284b.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-6.cba0cac9.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-7.185498ff.jpg&quot;);"></span></a></li></ul></nav><div class="tab" style=""><div class="character-alt"><div class="character__content"><h2>Max</h2><div class="character__image-content"><img src="./client2_files/tab-image-max.6493fa1b.png" alt=""></div><p><span>Type:</span> Human Clone</p><p><span>Class:</span> Ronin Warrior</p><p><span>District:</span> Wasteland</p><p><span>Bio:</span> An experienced warrior, Max survived for years in the Wastelands, proving his worth to the Central A.I. in control of the Sector. He swiftly rose in rank and notoriety, taking on missions even the most seasoned warriors wouldn’t dare to attempt. Having attained legendary status amongst the inhabitants of the Citadel, he is now the oldest living Ronin. As he approaches ‘retirement’ (death) and his end date draws ever closer, he is looking for a way out…</p><div class="character__entry"><p></p></div></div><div class="character__image"><img src="./client2_files/tab-image-max.6493fa1b.png" alt=""></div></div></div><div class="tab" style="display: none;"><div class="character-alt"><div class="character__content"><h2>Huxley</h2><div class="character__image-content"><img src="./client2_files/tab-2.0b65c918.png" alt=""></div><p><span>Type:</span> Robot</p><p><span>Class:</span> Hyperion</p><p><span>District:</span> Wasteland</p><p><span>Bio:</span> An ancient Hyperion robot buried deep in the rubble of battle, Huxley is a long forgotten casualty of the old wars. Dormant under the desert dust, his decaying metal frame protects a wealth of data within… What secrets might lie in his aging memory cores?</p><div class="character__entry"><p></p></div></div><div class="character__image"><img src="./client2_files/tab-2.0b65c918.png" alt=""></div></div></div><div class="tab" style="display: none;"><div class="character-alt"><div class="character__content"><h2>Karmak</h2><div class="character__image-content"><img src="./client2_files/tab-3.a10973e7.png" alt=""></div><p><span>Type:</span> Mutant</p><p><span>Class:</span> Crime Lord</p><p><span>District:</span> Wasteland</p><p><span>Bio:</span> A brutal crime lord. Running the underbelly of Machine City for hundreds of years. All deals must go through him. Legends say he was once human, his body augmented by old world tech and twisted into the abomination he has now become… Karmak killed anyone who would know for sure.</p><div class="character__entry"><p></p></div></div><div class="character__image"><img src="./client2_files/tab-3.a10973e7.png" alt=""></div></div></div><div class="tab" style="display: none;"><div class="character-alt"><div class="character__content"><h2>Kai</h2><div class="character__image-content"><img src="./client2_files/tab-4.289bc584.png" alt=""></div><p><span>Type:</span> Human Clone</p><p><span>Class:</span> Ronin warrior</p><p><span>District:</span> Wasteland</p><p><span>Bio:</span> A novice, but skilled warrior, Kai offers great promise to become a valuable member of the Wasteland's Central A.I. unit. He’s trained vigorously to earn the title of Ronin, and is now eager to prove himself out in the perilous corners of the Sector. Determined to learn what it takes to be the best, he has specifically requested to be teamed up with ‘Max.’ He aspires to one day be revered like his older counterpart, but must make it past their first day on the job.</p><div class="character__entry"><p></p></div></div><div class="character__image"><img src="./client2_files/tab-4.289bc584.png" alt=""></div></div></div><div class="tab" style="display: none;"><div class="character-alt"><div class="character__content"><h2>Necro Trooper</h2><div class="character__image-content"><img src="./client2_files/tab-5.ff1e5d6c.png" alt=""></div><p><span>Type:</span> Bio Machine</p><p><span>Class:</span> Soldier</p><p><span>District:</span> Machine City</p><p><span>Bio:</span> A dark creation from Machine City A.I.s who sought to develop organic/machine hybrids that were easier to control than human clones. These mercenaries were designed to serve the highest bidders throughout the Wastelands.</p><div class="character__entry"><p></p></div></div><div class="character__image"><img src="./client2_files/tab-5.ff1e5d6c.png" alt=""></div></div></div><div class="tab" style="display: none;"><div class="character-alt"><div class="character__content"><h2>Scrape</h2><div class="character__image-content"><img src="./client2_files/tab-6.a113b15d.png" alt=""></div><p><span>Type:</span> Robot</p><p><span>Class:</span> Service Model</p><p><span>District:</span> Machine City</p><p><span>Bio:</span> One of the most common mass-produced robots in the Wastelands, Scrape is now a forgotten prisoner trapped in the depths of Machine City. A kind and helpful bot, his circuits have gone a bit mad over the years.</p><div class="character__entry"><p></p></div></div><div class="character__image"><img src="./client2_files/tab-6.a113b15d.png" alt=""></div></div></div><div class="tab" style="display: none;"><div class="character-alt"><div class="character__content"><h2>Demon</h2><div class="character__image-content"><img src="./client2_files/tab-7.ee6c5b27.png" alt=""></div><p><span>Type:</span> Robot</p><p><span>Class:</span> Phantom</p><p><span>District:</span> All</p><p><span>Bio:</span> Brutal roaming death machines, scouring the planet in an endless hunt for the purest energy cores they can find. Driven by an insatiable hunger, they relentlessly devour their victims, assimilating robotic parts into their bodies like twisted parasites. The larger the Demon, the older and more dangerous it is.</p><div class="character__entry"><p></p></div></div><div class="character__image"><img src="./client2_files/tab-7.ee6c5b27.png" alt=""></div></div></div></div><div class="tabs__body"><nav class="tabs__nav"><ul><li class="is-active"><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-1.fc42c915.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-2.16ad1c59.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-3.b671bd7f.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-4.d39bfb39.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-5.bac1284b.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-6.cba0cac9.jpg&quot;);"></span></a></li><li class=""><a href="https://huxleysaga.com/#"><span style="background-image: url(&quot;/img/tab-image-7.185498ff.jpg&quot;);"></span></a></li></ul></nav></div></div></div></section><section class="section-alt"><header class="section__head"><h1>Digital + Physical Action Figures</h1></header><div class="section__body"><img src="./client2_files/section-image-4.d849c247.png" alt=""></div></section><section class="section-team"><div class="section__image"><img src="./client2_files/section-image-4.2a89d8d7.jpg" alt=""></div><div class="section__content"><div class="profile" titlealt="From the creator of" text="$4M+ in sales"><div class="shell"><header class="profile__head"><h1>Creator </h1></header><div class="profile__body"><div class="profile__image"><img src="./client2_files/profile-image.bc5ec696.jpg" alt=""></div><div class="profile__content"><h2>Ben Mauro</h2><p>World builder. Character creator. NFT artist. Ben Mauro’s work has made a powerful impact on the gaming world, as senior concept designer and art director for first-person-shooting dynasties Halo and Call of Duty. His visions have graced the big screen in Elysium, Chappie, and J.R.R. Tolkien’s The Hobbit. Now he unveils his fully-fledged graphic novel series, Huxley.</p><h6>Past clients</h6><ul><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAcCAYAAADFsCezAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAUwSURBVHgBrVjtdds6DIXf6f+qE4QbRJ3AygTWBtGbIH4T2J3AzgR2JqgzgfUmqDNB7AniTsDyWhcRxFBy4gbn4FAEQXwRBCmO5BPAe5+FJideBXTEzGAMR+LetIeAO+BoNDrKX8JILgA6UwYcByykcWRHfKKxjuyTgI8BrwP+F7AifWx4d9IGBHwI0p70/wPWwdm9fBDe7RwdqmgslG9o3IYGljQoo5H43gejdmEu5m10NdAP3+vQFtKuMPiPgV4HeiltgKCvoKMPlzra55QLuAj4HHBFgzpOw1jilG1uxgvISMwpIx0V2znlxHMgBwHxtMPJpUBFEPJChVmCBwaVNNYZJ0sjo+iR33EaAQm41MBwvOyxa2qC7eSDjt1xcp9TOZVnRqFdiYzjP9kq5uowg7I031mP01XKAeqYM/hTeYdTGQ3aDggto7RzqQiroZFsp2iClAqeixw8ZUWfjoC/aHeqKr8KANMymlgYY944fEapkzMwEJjSGsvgVKav2aNpPGe2OeX5YuT9DPgYKtGczGBSRqQpWlRHq/BU9SIntZplaH1bES2cyj/5XuhgHPVamup8CjYqrWaWNEcLKnGtzLCbNmIFb17PSd9Uw5WVzKj0wZT7cu7bIqKw5HwtKuseGc+a0twGKYChM9oyNfS59AD1LbTj4uWMnNN8XpJPDSsMr1V8WgnfBKzkfDV0RVQ5W9+mk6eOuW8DAlkVdcwjHVmPcxnHnVDZIsFUGEdcNBEwNbxbYyzgWp03hhYJ2SsGV2VeJWQuTP/F0JN71QRi+Y80t40H6Yej3giYx8qrpRttIc0e0bF/pdlXZ0H3Z0ov2ycGBoir2CPpkwGxG4yjoMC5r0HAOGLQcv87MQa4ZvTGxhg18jZgHca/QjZps9C/5XfBtlMBAyCNf0c8gDuj41nHe+xSOKWlT42Y1NlEdC0eK/ZXNu18u8eu2O8rKFsjsw9WUdpq2X/2A/tOZWLl9piEC24P3/WbiDRwYFto67tXrZuAa9P/Ie3F+o78ZdBrgwcbNB2Rgqi8ubQZUfrupRpjtbx1DPQdnEMOlxScBBhtzpSJpUvr7CyaNo6cq1UGIw5+HMTq0Ok3KvAcEoZKj44y5Zz684UGbFFden4Q93DINxVTf3f2RK1YkKEHvP7jIcqIvlbA0r+9sSArpsa574HnW5RFGsx7aRdgQt23nP8K1AH6jRJwviwipuLMXih9ez7hQM99e2RsSS98+iiojJzC8Oe+vVaVlKtQqfHEbSyX45CJdH69fs2lWb1ZiNoP0vZcERhsV8tG8EQLc+6lCw/SPi/U0Cndo2FH2bp3Ho2sozF0yvmgbbjfJpT/RDZ7HTylepDxXSKP9aYyMzSNomO/80dAWiEJ4LwrGQAf/bRGY2XUz333t6qIbJv5plK7IWXnfnmc797OhwwsZAAGAtPRnQpqNPaLNneOhlHPhLk0y78xaWrH9YGo5s1f+/adJJf2XQUH7zfppiZSFZv+VC1NJa2M3EKY2nGxo04cKeC/D+NLeS9whdZM1aFVtKlRGcyMsSn5dp6+wyz5nbNfJOZlTMEX/0lvKWtb3Xp47nz7bDD13b/tPBWUyDGtlMtUQCh35XseqlLwkac9J835hTNEbwaockirvTQH8NrsP70YbMi/i1OYrZO2+tb8Ka1Ig75rIwv61u99sL30UdZRMXBMA2sacJD2Fdlx/MAW+xf7BJdjT2OVL6Mj+M5Jh0xcBDaXvEBf5FwMvvuc7miknnNuYOpeuk/paBGgT3lO/wNUUUsiGFuJkwAAAABJRU5ErkJggg==" alt=""></li><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAQCAYAAABKkhw/AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJiSURBVHgBpVeLkRoxDBU3VwAdsOmAVBCngiMVcKkgRwXZ64BUAFQQqACnAkgF0AGXChxp1h5ehC2b3JvRYMuSnj9vvcuIGCEExz/f2aZsY7Yj23o0Gv0gBY6VmG/gWnDcm4p55p85m4suz/aV486UQeR/itwWfnONZSb/Oc5pWuXj4FkoY5WbnIqZaPJCrQtbp2I7tn1oxz632Fa+lHCokLg7F3wyai3viM0ht+BTK5/gka4yEGzZRMY/6SovR4NEqgiD3Dtwvcb+PPbnHNPLIxA3EmM925lsnBWfq/GxvZBKQvTRtwTfQZOonAmMLdXYOBPvYmwPvgv9BzhvpWuU+BIeCrU8tKcycWrDE7R3cpJsntt4qaXd1xddKwfCQVvUSRm+GSa0LPgmKYeMnLfQ3mCtuLgj+KR/iCeG1kebZfic4tsV+OY68UbS0b8H/wqJQkbSOTkbOS76T6EdEttBzRWMXdSairIunbDgF7SrJ0wZOaeOIevPVL+oEjo2vKUdtFFNFp+5YA/tcVAPPyLYck64kbV8GLB94P4XGm5YeUOslZ0hr4un56gs5yJfmiyip38XctFjGblMgiFnqGXeniWE4abHebxYcq7xPVT4cOc+GXFFOSdYMrOQqSWb6aC/LeT5HN8j2fB0nZjsmLzEJyrmI9XlnCAyS9/hIjNqQEe339gdtHfUzreoSVrLKYeqnKGeC+/DKTTI2eBzpqSjnF6NEBmryhnqeVIfHHfA03CrO/BZasrKWiS9BscxkyQnKEn679cmEqLELXklLMi+DzT+CI9MPgzvYQ9jm4Z85Hv7CwZ8dUWVOgVcAAAAAElFTkSuQmCC" alt=""></li><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAcCAYAAABf//AuAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAR1SURBVHgB7VrrcdswDEZ6/R91grIT1J2gygRxJ4gzQbJBlAmcTGBnAicTyJnA6QRWJog7AQucPsQwI0qyHeVxp+8OR/EFggQBkLSJenQO7/3UrzFjcpF2CVOK9ktfjUVFv4221KN7BEpVTGLKNf1GEeWemzbDsJJ6dI+IUrdRblbR7wR1ea/Ud0CDUq1yBzU8xCKXQZ+8ihH16B4tlapYMI2rFMxlDvW1oB7dY0ulKkY1/LKKjfCML9Tjo6KIVRwcHGSc/GC6Ybrk/C/kT5luqUf32NFSB7uO11vqx0VBO+Kr8d2FEJtyQe8EliXlxCErsszpneDLu+CKZZjSO4DHXTW1YRmXnKxAD0z/SPQIU78CPWFht4IvX0Iy2hNwUxL0J748ri/3cUN7yjLcZS0ivLZ1v4sWPMexzl/RZsw745HzBX/LpXaOjimVlrNhNaZcymSXDJmOuVzyD7LLRNEoX6GsQN8ByoSHWEIY2O9wECB4kZxTOQQIPzJ8HNqvIEuiMpk2KgMF5Sn6DYI5WHkeaHMRU7sWwfzmbSxrC9Ty4rEvODmP1WtM/YFF+s10bzqOUT9GXhdaymVSsijOpKmUg9cCZUIzY3Ezpgn6n9RZOFyfLO4IvCemeoZUFjancjMKzxwLTpi4KnsBj+LQ9wJ1C+Tl+8Kvn+BGIF0LHVvnkeO7C0/yN1YhHoSTjOqg5g5XN9OJwxU7tEmQT+BKxgEPab80eXHlE5OXe9UtvpfYGFX9pqGStQxjL418C9SPmPKg/cjkn9v78rHcYc4O9QtVJHjdGpl13Of2hu+T2QBNa7yt+00jfFQvtVBLHbJViIt7ZJrS2s0UUgnXIt+yKzOmb74+3smuvzf5OdN3k8/Bt0DbOki/FWR4gAyyW69Nm6KqI5StVunMWPZAqAcN5XNIL+dSdYCUO+GZL+N/0xzaYM50JHyrDojYVDk1r9eLK40s2iFSp8IidYTJMY34+47ibqCgTbfkKIhRBlEhsWOFj8Y5UeQJmbjf0DdhWY+YTjH+LosvCk9CS5XYC0OQ8iHtjoLpCHLOa07bOa1vBrXQg5K4Sz0snOKgc0llfJJXi2Oma1GocTk/ae37deIZlQq4ojKGHUJo4fuH2kEOXD9pHY9PjZWIYsStt7l66cbMqLR22Rw3tCUq1kK8hqyXhKBHqt+wTRB+5y0PWWLFKZW6kDS+QRFnlJKgziHOpHVlQbkzZUOUJXa8cHzzPTCyDCLyStwfBeO6gEcSyqrloEGk/XNdBd+NeYPni3WIyDytCH0Z7QGMf+Urfm+lzwK//ldA7l8nhr0ZKpSa0SvCbLj8syl1ACvt4grRKQKlZi3an+26cT/bhv+0MEqdtmgrbwJj2gMH1KNzqDJxa4i1cVRev9QTyeFrTuVhTL7t1SvE6pVftHo0oSlkwN02PipEMO1d7gcCDji53w8u4HlGPd4evjzJX+xhnYpJwHfj2bXHG+AVlakYBvwnUkg9ukcHyhQ8BWPoDxW9Ut8Cfrf/KDXhNhhjqRX/Ad4AKcvHNwVxAAAAAElFTkSuQmCC" alt=""></li><li><img src="data:image/png;base64,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" alt=""></li><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAAXCAYAAABtR5P0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARHSURBVHgB7VnhddpADFb6MgAjOBOUTlBnAugEcSZIOkFhgtAJIBOETIAzQegEOBOETnDVh+UXWeiMTZwXfvR7T89Y1kk63Z0kG6IIQggp04D+48NwFnvAgZ/z5eXs7GxCLcDyY76MFGvL9JeOw4ztbqnZt/fa2bKNGZ0ieIIbplVH+b4wbrCThv6Q0akBk1cOpi3ks9AvVg225qE/bMInptYvEb5OHykdxi/qF269Ed6Y+kPCdEunAkyQ6VXtjld6J8xumys7iaKZkZs4ejJP12eh91MT/BSSNsgjcHdyhCtaBZVPI8EfilxFYyO3cWytjMzY6qiCIj6tHBuZ5jk2cOrm4a2GYSM+BKc+iFwS0aHtDqkNxJDFLCJ7E+qnxGIjgdCYKwc1KodrPGUrcXRbXiaym+ADgZ9ohpnPXWjGJqhgi7/gDY2eLDYPjS9mUEJ+Tr2yDJZFnseiNB29p6aW0cGjude+2Nx8Tw5kogl1BAJPh/N/woSADxzeFXWELbhpRG5gdyFfJkYmZ1owLZkKpjUHPqNuWFDZt1e4UhMdObIeEnP/g+lSaOkNkBNjA5/T23ys/jvDg48L2ZCtcW7u9eqtmfRxGotDgC10U/0yJovTZcfvgFPCY3N62/GYFI5wQfWg5ixbBCffUrnwGniZypVvzpC9bu2axyzUmIQvK+UDfPrp6JmI/hfqAid/3oZ6Dn6tdqGRO9hxePLByfkR/irs9/ZZxOeKv1G8Tajn6YkZM/T8c+Zg/bLxCcamRurp1GnHCuRUz8EI/DDs77Yn6hGyS7fGr0zd49nygJpr9TthQhMRq02Jub9v6ddXiiOhFtDB1ykHRuCsPaOdi8qR+N3wbHmoiEugpoqF9Nk2H3dOl8diF3zZzaniI/DIcbbF9Dqh79Q/mnb2PbWA1CAtexs5/oW5d9+gQ9lO6tPzx4hg0dbUAdXOT1vKD0Q2VzwUn9qJCGVvf/TbHwdubWxUKHTxbAF0MLXuKWJLy9yE/b494cuDGWo3CHSgo2q9AFXwb6g9MIGp4aHNepAihOP9TPvOdsVjS14NQX22oDLd2PrhQac5bJrnUBZ5zAdtJeaTKBmkvsIqkXTYuABS4FP8PldOVsBAO8mRkhmKDBzWizam+pHdfXZgh7yWrA0WVOZpfYJmLcZBJlabCo+JFMW+In2mip1RXEd0TtIuYwGQtu0JSoWHDbI9d4ygZ1+aQVulaNd7swx2Be6bTg1S0pSOgEwCi5wKK/d2W0egBiSRZ3gZQ5s5bhhfMF0e8kMtAE5/ah4jjgjcAGlH75LCBl6wMPcjMYKcWr05bo2TCPpFx88LFnrhYoW2ULQVKgzlVAZt4TzfAX4yYQGuab/eFOLLNxP4F6WnlmpE36X4XcVgILrRng+ifyMeg6rIvjPgVmf1SfuiT70tbSdUviH3YtfUoYJOHfJG+qnf7T8K53T6QEo7um09ZfwDqIkN4Vwo0uQAAAAASUVORK5CYII=" alt=""></li><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAbCAYAAADbAhkjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQiSURBVHgB1VnvdeIwDFfu9ftxEzSd4OgEFyYoN0G5CYAJSCcoTAA3Ad0gdIK2EySdAG4Cn35EvuqMnT8kfOjvPT0HS5Zkx5LlEBljUqrHQcjtK6IoeqWewT5NuIkD7A3bLFrIu9BzOT6zvl3tKNMdOdOaKaaOYB0Dpscae4lnXGa6Y105B9Mf9kxDOhNwkumlgZ3kQgtlsfD5d8W0o+YYMA0reBkbuuGtfKAWkMlvRcc5eKN2GFbYStmf50bhWAVThkdqWrzxGn2LgJ59H/or7E4qbCypL5jwdp80HI8F3wZ0bIV/sYUSH5YBG2tX9or6R1EnYMqkmZH/pHrgbZ+KHF0YoRTRNpRPYapPprzB+Hvj3/J7d7eYC+4o6An4kRvP6XelBmYN9McUrlcKphFVO/fIzSw01q2P2kL01528MZWJ3JfMscN+VvphugGxPqjQjV2YBcZuQmMD8kmFncycD5QmcUj3F+oHd0xjH8OUtdULU+Jhz/ntTdqWExcC/LwPMSP7YOpPq1ja7xRYFConvlQ6p9ykdLrN7RbfUQXwmj3do9A42W0xhRGr9kdAFlekX25nRGfAhE8tLMCx4BSnQ3nvgRqcjoy1p2/FZO+XRZfC0JR5OfGwRp0LTmUkVINMhJ+Yy6PJAVQ1h0lA78kL6pKjrunzo/EcWhWcpjydbNIL5alCWoThjroh8fS90keh2PoTj8wBhDmkAbE338A+UVtwtpyUD4lHLjP9ITeeMqGv8gDYUU3B+QlQUKDg7HrXQwhg+69Y+RN9Ttg5PDMtQzVdZJrfnYqTwR2vHHXw+GY/Px8cuarvSz4U9uEiczBlSZDJc6bjmduZ4m2FZylTcuDponRscxu3U2ecHTvz9Od2rENrU16ZEvk9FN0LRw46YzUPTUPhT2TOw7ahh7cWy3MshJpj5PDw/E4fpwouq3DoVnhRQCfkEQa/Fd+GBihhwqdaVM6F8DDWFrAD4b+JPHhYtInohtxO9EJ+JjrdStye2P/+hOiaozChu0D45ra6ZT4c3NLHgnwN6MNEX8VJNywKdRplzHtXv3ewZcqjfyF2dOlwL783qu8g9uyLsP/IuDnqOKbrqVdQeaVYUPWVxBof1vChC28ZoZjLcd2k+sZuxb1wL7+XDj8W27mimcjB9ov07XW4avRRHizFiWkD2YLKkNSwbxU7CM5/Y7oRmjMh19RV0AidW9Gz8iToYyhF/yPFf5JMN8qmTQ1j10DX0LuWCzBCC3moUDybGwAsYiHhASd0uE5lIiQ8fXrZBfpD1Tj+ESt+LLjdOHykCHyVTZWPNtwS7TMFTs+2C3U8nq1zJBPApxV24k7JYdfgM8ZQOTWX51SceZQWemwyHcs4UjbmKm9o+1qGlB/IR0gFK8uT/oHott+cLH+hdIOe6DR06S8nTgljPWkmaQAAAABJRU5ErkJggg==" alt=""></li><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAdCAYAAAAwyZtYAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAR5SURBVHgB7VqBddMwEFWZwBtUbBA2MBuYCTATYCaIN2iYwGECPyYwTGCYQNnA3eAjNXfVSZEckzSvlOa/pxfZOp1OX6fTWa1SrxQACnXF08MSO9jSqAvhjXq9cB5bqiueDtZTNfYw6orzQYRWtozw2NC7ktqLTN/nicl24JUtvfMCKoxRPRFo4u2xSbp2kn0kigjMYSKyO5Iro3kZkrtYTJ4FTcitfEMGOqK7hf36OcNt22dBRJ3oXxMxhogaROmFbduIVDPjpRqhk0zqXwEZ9/FI+ygmqRMyVY4IauPJD9Lb5BjR8yD0dRm7CoQhg1GpfwHkRVNuwgnDjSSCZCbR3tD7QhA0/c2EEXptjtheyLjwU4qxVuq5gf0WPfA0alshjUHImJgEhF7OulsaS5YqY1Mb64zaO6lbvJcL0tDilupEYrSc6Ik62OPaSG+PPD7aso7Icwsx4O9QJOzJEouQVIeaCGxmxu6pXaslQDj5k9MNRCtN75rIOCdjkEdN/eqMnFu8Dby3lrmJIiR2mCHVCA4GKnHc7RBlIEtJ6am06gxEBt0hkZLh8BR+nGBC3zZBrM6M7TzOHXIVPTcxsQh3B+vLhZIKYdzvsMRbaWADP8kRM2nJEiC/7UeEp3yK3Dqjc5Mg4yHFE2WEJ2FD/WrRxxBRA8LFn81Z4RdLYi0FDrYM/AkY406dCNI5RfoGpGOgJLc9orfG8bjrdNWR/se2hJ0rLHQi+BzaUKm4YU3M15HwnJENTvBe+BRpXEAYHxhaLddd0iRb7L05+IqK5DcpYs8BZJaAMIVxcasj46YEqUP07Ah6ns+8MwG/gy5zEUNk3kYDDliGB8MgY8sLAnntWanknHK33aronUbaY2O05LUjTk2U/1O4i+6dLZpfYH9AufTnqy3vbflGMq5+H/X/RXJfbFljecA38LdOfEHy8DUlZD6T3Ch3BDnCJELRit67ndZTndMh1jvA32DxuB3CWyyZz3Ifg+j+QTjViLnPaJpALY0Tg/Npp+k5Tm84B+SDo1XLiB3gP0HZ8zv4fHZN7zkxB+sWJG3INiNsZV1Snt83VC+kDcJ+qHDheQxOwUpBrCHbJuScCWEOmfq80+K5EqtV0MAyPvdY4LU0eY7PrM/AH6Su7U7Ib0FXdoLYLkMsEH7fazGWVuHiAmH+egufapYR0S3V2d6O6sn5vrm5ublnA+zPz1jAtu/E4w/6/eD62eIygrei3YWEo/evpMcZpG35ZMuK6t+FzG9RB8k73FO9Fv0lXPtOhfa/o0dH4iqS1UqEwqjO2EXPTkdpyxfmLwskPsuQODFx5qct6SjY6+g5uI+Aj2+t8AyW3VJ7LT1LPPOvjMvOa3m3bcQYtbAHkW2uvRHj8zgGCy7v5cBt4v0Wh1d9T/K3HzJcU72UxsIfHgwpW8PH9lEQxVuYv4Qm+L9jmYSeHuF2lwfnSvRxehoph6XOlRMkw27VBYBlsbg4JofwjEjWj/WbkdEXcSzst+Lz35a/QBz7h42dOsxdrzgXWHojfsUB/gAIm+4Xrce+/AAAAABJRU5ErkJggg==" alt=""></li><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAlCAYAAAD/Tp9wAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAATpSURBVHgB7VrbVRsxEB2TfOSPTQWoA9xBNhVgV4CpwKQCnApwKshSQUwFFh2YCrJUEPOVT2cuuoOFsmuHxfaaJPecOdJqZT2uZkbSrDvyF2GxWGSaOBWkJco6nU4pDfBW/gIoIV0JhABzlQGKVa6EBD0Xr56YiBQISDnlqztZkvVsdOQVg6TAbLosQlqqeDUhLy/AG3mlUFJyTd6p9CRoCvBT5ealpACvVmOUmEKTGR+dileZb4IUYOvEcKfIJazqTAc+l4aglhyp3MrSf3xg+0C/6S6UYmvE6CSg4rnKIYuMEDjFSZMJUEs8Hx3TE7Z9tilSgAPZHrxKIUvykWKlMZEBV/+PQUc7lWA+h0xBSMl2UedIxaEuUycNsTViYDIqMJ2BPt6rHPPVjYTJXOjAL/9k8KwzZDswzfcSTAi41T7OqS0ot37Ll2jQVn0M/QsEfmEkgRBMbsKyj8JV10mMV7RzKUErskhKird6L/FfKbbpY6D6c1s1PmOCToLWQIO+SDCLnGWTivogBGUgw8zH8JiHlsgGsbPtmtoDh4yTKRywOWVMHGZxw7TQSV5p/THzM80PhKRs0sGuwi6vBLbiWVIGgrDyTgI5cMz23jQCvys3aSrrsDNiIhPB5MxPOHl6tzHAjMDOByNpl6S0BmyrFWU5TGaxxNTKpQW0dbvu64RLWTpV+BZzskCh8pnbdCn/IuCU6ZjtGfjO8p78xyNJwA+Vc2kR27wSNMGQaXpe2Tn2jRg7V+F07Kuc9K6wN8REjhaa4qVl7A0xPOdAPNNMy+6kJeybKQGI7Ht5ekLeOfbtKwHMCPehOU/IrWHfNKZUsQBTq8S8rQkUzdu4m1BTkM2qwgi8Hjg+WvRuK5dL05jvEkKOucplyxc2jCWLF4xhyq989BICXRjjhSwD4RtFhx1jmZztAjyijyQEjnw0wF40OBzGLKqG1S7ihqO6eI+gFEKQBduOb9SZ/Ta6MEJbuuibBIGUfrpgbCuul0ev8Yx4TsmxHHO8SK+i277N1UuIKt4/zoXH8KOk02/pzZa33x7zhb1nfhDVO09NFIEnO+ZrOrL6LB/FeWpIHtWtvR7wGuEY2IrLUTa1tkzjmJ8mdac2f+bzg4qOHLP3NWOpMjMvtH1O6Lgi0jZSGcYXRgJmYWX4zWnSB27etWFLahFMapyUl5pcq5wn5V5WHwVwXMhiYj5x5S7k+UBHBfPQqJu0AicA6SavoNpjaqKXMBkzD/tgv+5MM6gJeYL0k7iAC38t9cD7WXyOgdO9q1jRVeixoywa2Krfl/J0kCDjln7gkgOGv8PieOHXSwlkTqQZTPu67G+o/X2sqPde3+Pzy4Nf+s2U1uxIVWbwsCqRCdpEquAkMgvtaxI5zjs4PZVPEnYlC39C+07rFozls0V1pM9F/eFbE8Z6W+Ozftj3KDwcrOpMft8Ks/SjOYk8U/nG3xUSYrUuaRPP1zXE57I0RcB8g10oMZavKTlsE4sAvzCsaBf+6nMyXrR7slgTMo0PeGcMNz6Qgg9g0e5RcvAzDsg+ojl2hhXDNyJ4e5DU50TsH01Wb8S+8NvDSCswqVi9xxLOMxMe9Pr0fyAfz3ZMgP84o9Zl3JnMmaPPK5op6j1oYbKQGLNnn+i/sAF0Fss/38Qoo7wN3pznc+CYNvntujbr2rX3pTQEyPwFSbv3mhx/BWQAAAAASUVORK5CYII=" alt=""></li><li><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAcCAYAAAAuh5ywAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAM/SURBVHgB7VjhdRoxDBZ5/V93gjgTQCfodYKSCepMEDpBjgkgE3CZADrBkQlgA26DsIErPX8G1bnj4EGAvtfvPb07y5Il2ZZPvg6dGN57ww/H1GXKwLZMa6Ylnr+Z5p1Op6JrhQTC9MT05gMcePKcMuVMA6YV05ipZJowWbo2sFN9FYhGDFBoAVmj9DKmQuToWgCn27DAKo1r9A1WL6cToENHADOb7xCRfHnG+4xJVqfSuSOrBL5l6nLfA10C2C79Hasy1dtrxziyQj2somBA54YkMsjBiZXfJv0Cs37IeAYTEPOtR+dEPJlUQE719elAYLU9Vqp/qnw6xAGTOHJLRwKBGJCl/6iBnh3MWKb6xlgRyZ0S22OCnNHflhJ8V3NQrCBTJPyFsvuInFz45MML2/3U5zSIMgohsaPRFRLUqrZT2yxT77kyGHMhBpTj3Sk7BcZ26H+D8z0VYBFtKl8nkDWJvSzK3FCot5qOV+GXvv74tfzNmPOzYnoET75LUqMtldw3EDF/pvhr6EbZL2hHu3Om7xS+X/Egcuhz1IAb2g0ZzMLRdYPMixjBTDq0NUQ/Y/pRwy+ZpmgXHLDYGKJvgv44mTJGRSHQdKwN2gJ6BsnHrunbIOWMODKiUAUUSf8D8+6Y7hN+xfQVuktZPewE0b+jMDEW4wv0pGYNu2YTUOy8pfcrkdN2K7wDZvUFY8xqRKbIBaFS8Q225hAOOoyxgvNz2P2MHLHoz6BfW1F8gqKcLHJ/cTDwl8PcJ7NbIti1MhZRiGHa1m0EmWFiL07WLOrz+GPYlpys+F10fsIXkf9FIUclNyWnJJ9km0pextUbMU/GqzpItgk6Xlkph1JGYSs05U4t/J5lDw6Ufcc00FmjbfkhJ2ZBYQd1IWrp1MAx3IYF/Uvw28q5Nhh/baWNb7kW4ABogqX28VtlmtB2bO8yuqvEt0k7XvTu236M+D3uUB8CH8oWW8M3yYpIqbLXlcLX1GpnhQ8XOpvwrApkvO/2gZ6jSwOn2kC1DXIoO2CMvr/E1bsJCGoTBNp2Dz2pEKZXFUwEtkws+UeYdZPIGATx5D/oR+NRv7HqAAczChWxvOvTsKJwXXilbXV9UvwBNHIXi+snnpAAAAAASUVORK5CYII=" alt=""></li><li><img src="data:image/png;base64,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" alt=""></li></ul><div class="profile__entry"><div class="profile__inner"><p>From the creator of</p><img src="data:image/png;base64,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" alt=""><p>$4.5M+ in sales</p></div><div class="profile__inner"><p style="display: none;"></p><img src="data:image/png;base64,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" alt=""><p>Sold Out!</p></div><div class="profile__inner"><p style="display: none;"></p><img src="data:image/png;base64,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" alt=""><p>Sold Out!</p></div></div><div class="profile__actions"><a href="https://huxleysaga.com/about" class="btn btn--border-red profile__btn">Learn more</a></div></div></div></div></div><div class="team-list"><div class="shell"><header class="team-list__head"><h1>Team</h1></header><div class="team-list__body"><div class="grid team-list__grid"><div class="grid__col grid__col--1of4 team-list__col"><div class="member"><div class="member__image" style="background-image: url(&quot;/img/steven.e121a3dc.jpg&quot;);"></div><div class="member__content"><h6>CEO + Founder of Feature</h6><h5>Steven Ilous</h5><p>A visionary entrepreneur and creative professional with over 20 years of feature film, video game, and web experience, Steven has worked closely with some of the greatest talents in entertainment. Inspired by Steven’s dream to build a better system for creators, Feature is building a new platform for buying and selling intellectual property.<br><br></p><a href="https://twitter.com/stevenilous"><i><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path class="" fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></i><span>@stevenilous</span></a></div></div></div><div class="grid__col grid__col--1of4 team-list__col"><div class="member"><div class="member__image" style="background-image: url(&quot;/img/seb.1e6b5af0.jpg&quot;);"></div><div class="member__content"><h6>Lead Developer</h6><h5>Seb Brocher</h5><p>Seb is a technology entrepreneur and developer with a passion and talent for the arts. Seb developed CryptoArte, one of the first generative art NFT projects on the Ethereum network, and is the founder and CEO of Chimichurri, a software development company.<br><br><br><br></p><a href="https://twitter.com/CryptoArte"><i><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path class="" fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></i><span>@CryptoArte</span></a></div></div></div><div class="grid__col grid__col--1of4 team-list__col"><div class="member"><div class="member__image" style="background-image: url(&quot;/img/oliver.6845ee43.jpg&quot;);"></div><div class="member__content"><h6>Marketing Director</h6><h5>Oliver Permut</h5><p>A multi-disciplined creative with experience in the music, entertainment, hospitality and tech industries, Oliver brings unique insight and passion to each project. He has lead social campaigns for the world’s premier electronic music festival, made commercials for Vice Media in Berlin, and spearheaded hospitality start-up initiatives in Miami.</p><a href="https://twitter.com/oliverpermut"><i><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path class="" fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></i><span>@oliverpermut</span></a></div></div></div><div class="grid__col grid__col--1of4 team-list__col"><div class="member"><div class="member__image" style="background-image: url(&quot;/img/kas.eb8807df.jpg&quot;);"></div><div class="member__content"><h6>Head of Community</h6><h5>Kasandra Vegas</h5><p>Educator. Community builder. Co-Founder of NFTs.Tips. In the rapidly emerging NFT space, Kas bridges the gap between art, tech, culture and provenance, and brings an enthusiastic voice to new projects, ventures, and creators.<br><br><br><br><br></p><a href="https://twitter.com/kas__vegas"><i><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path class="" fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></i><span>@kas__vegas</span></a></div></div></div></div></div></div></div></div></section></div><footer class="footer" data-v-0e70551b=""><div class="shell" data-v-0e70551b=""><div class="footer__inner" data-v-0e70551b=""><div class="footer__entry" data-v-0e70551b=""><a aria-current="page" href="https://huxleysaga.com/" class="router-link-active router-link-exact-active logo footer__logo" data-v-0e70551b=""><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAAAcCAYAAAB4fbODAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAPuSURBVHgB7ZzxddowEMY/+vp/M4I3aDtB3QmaThAyQZIJAhM0maB0grBByQTNBnEnaDpBemfOiWsMzzqdQMD93tMzOEEGnU/6dCcZcBxnZ4yen59LOv5EOLPRaHTePUn1jenwHTrqOqmOG3r9BeEs+r6TfK87OnyAjiuqd051TOj1NXRMqY4JXr/PGPp24t/5OcJ2L3VAAV2Xr1kiHwoq/Fu0tjmntli0T9BvLKC3z33b1pt4izw5wbJRQykS1Nl8FtyoZBjuGDSOfE2f5Q6moiPXp71Znqicw/kPatcZtesFdLY5pbLonCuh72QG2+cNnFBibv6mR+UbpYAOHkkrOH1cQceZdIptYpRONfSf3QEDocZ9oMMUOkoy9CUdJ9DBsvEGTi8iIxcIh51v3LwhG/EoWiCcaqj0bHAHVCCN/AAd36DDpecwtG3UjjlcQEfwnNodUM+2ncGl5wCkjW4RTilBrfo1wplp7OMOqESkqHbOEYpLzzAmWCqGUE4lOl0gjArKaYk7YATiFAukxaVnIGQXbjPNKHgGnfxUq5Nc0xD7BDvHL0iqIgGHJj1VucdNUPv87jnNnSM7VIHhsA1D0xgsPWdQEuOAJ5Ks7PIOR4Tk9Vh+aIMrm5gdmvTsJrwTXueJ7MKdo3ahwhB4pNVGxGtiHPBUytHDTiIJ+hJ2VIg0bo7IKhprxn2jIDs7XW+BdKt2bmPViUtQO6yl6KFGPUtsl2miawbn/PrwIIwR4ixWI1bUvMJ5RSTvD9hjMpd1BzRE5mua8HeXFDfMMTOBjV0abq3UiTugITTf4PWDFhJUuw7R6SEiOd9HBf1SwhXcAY2QiPAENjRrRh07rNTJVPKMJrgD2mEd3btek+ZxFIjTxK5cMp+bx0RB+Qf1LUjWJDP3GpGeBWzhduTtS+aJ6x2TIrXyd8g/yZ7BGFtZydgXYhxwnmBH/N5hLD271FI0UTL+RDHCPsXKL4vQ/Q75A2MOLQ/IN+zjmr+lWiqWcqUFw1J0niAnyCrlMfAzM0SuS5XHelhzYzkv2yaHmIgvsCUSSc8um6ToPt50KSK83D576YAehFGSWHp2WRcVrbCnN56zJFcHnCN/UkvPLitR0YhtN84W4A2+rVK0NvzWj73g59Bk6YD8CECk32enJlJ6ajuXRop24QBNBScr5CFPBZY2K6TctR7+VD8mM2cJypP9CpkRKT15Ae9X6J1wRYrKKMh1uhTNCLaL5Ayr5kiFd2xcSqaA3+c7B5SoHwceKuRFjPRsAincuWgdpk+KPkjd7oR5w7tl3lP5ROWeT2QdhGk5YRaLk2OTuE0qIXJVRq8UFSf8iIylu1Nz337zD0sfYXiCgiKfAAAAAElFTkSuQmCC" alt=""></a><p data-v-0e70551b="">Powered by</p><a href="https://thefeature.io/" class="logo-alt" data-v-0e70551b=""><img src="./client2_files/logo-feature.be9e415a.png" alt="" data-v-0e70551b=""></a></div><div class="footer__content" data-v-0e70551b=""><div class="footer__links-holder" data-v-0e70551b=""><div class="footer__links" data-v-0e70551b=""><ul data-v-0e70551b=""><li data-v-0e70551b=""><a href="https://huxleysaga.com/faq" class="" data-v-0e70551b="">FAQ</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/terms" class="" data-v-0e70551b="">Terms of use</a></li><li data-v-0e70551b=""><a href="https://huxleysaga.com/privacy" class="" data-v-0e70551b="">Privacy Policy</a></li></ul></div><div class="socials" data-v-0e70551b=""><ul data-v-0e70551b=""><li data-v-0e70551b=""><a href="https://twitter.com/huxleysaga" data-v-0e70551b=""><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-v-0e70551b=""><path class="" fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></a></li><li data-v-0e70551b=""><a href="https://discord.gg/huxley" data-v-0e70551b=""><svg class="svg-inline--fa fa-discord fa-w-20" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="discord" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-v-0e70551b=""><path class="" fill="currentColor" d="M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z"></path></svg></a></li></ul></div></div><p data-v-0e70551b="">TM &amp; © Huxley LLC All Rights Reserved</p></div></div></div></footer></div></div></div></div><script async="" src="./client2_files/js"></script><script>window.dataLayer = window.dataLayer || []
+      function gtag() {
+        window.dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
+      gtag('config', 'G-CJN25TX6L5')</script><script src="./client2_files/chunk-vendors.4b538b6b.js.download"></script><script src="./client2_files/app.c0cb0a5b.js.download"></script><div id="WEB3_CONNECT_MODAL_ID"><div class="sc-jSFkmK kRmdPb web3modal-modal-lightbox" offset="0" opacity="0.4"><div class="sc-gKAblj fVQpCb web3modal-modal-container"><div class="sc-iCoHVE knnrxv web3modal-modal-hitbox"></div><div class="sc-fujyUd hdPMvV web3modal-modal-card"><div class="sc-eCApGN cjAFRf web3modal-provider-wrapper"><div class="sc-hKFyIo jcNZzC web3modal-provider-container"><div class="sc-bdnylx jMhaxE web3modal-provider-icon"><img src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjM1NSIgdmlld0JveD0iMCAwIDM5NyAzNTUiIHdpZHRoPSIzOTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMSAtMSkiPjxwYXRoIGQ9Im0xMTQuNjIyNjQ0IDMyNy4xOTU0NzIgNTIuMDA0NzE3IDEzLjgxMDE5OHYtMTguMDU5NDlsNC4yNDUyODMtNC4yNDkyOTJoMjkuNzE2OTgydjIxLjI0NjQ1OSAxNC44NzI1MjNoLTMxLjgzOTYyNGwtMzkuMjY4ODY4LTE2Ljk5NzE2OXoiIGZpbGw9IiNjZGJkYjIiLz48cGF0aCBkPSJtMTk5LjUyODMwNSAzMjcuMTk1NDcyIDUwLjk0MzM5NyAxMy44MTAxOTh2LTE4LjA1OTQ5bDQuMjQ1MjgzLTQuMjQ5MjkyaDI5LjcxNjk4MXYyMS4yNDY0NTkgMTQuODcyNTIzaC0zMS44Mzk2MjNsLTM5LjI2ODg2OC0xNi45OTcxNjl6IiBmaWxsPSIjY2RiZGIyIiB0cmFuc2Zvcm09Im1hdHJpeCgtMSAwIDAgMSA0ODMuOTYyMjcgMCkiLz48cGF0aCBkPSJtMTcwLjg3MjY0NCAyODcuODg5NTIzLTQuMjQ1MjgzIDM1LjA1NjY1NyA1LjMwNjYwNC00LjI0OTI5Mmg1NS4xODg2OGw2LjM2NzkyNSA0LjI0OTI5Mi00LjI0NTI4NC0zNS4wNTY2NTctOC40OTA1NjUtNS4zMTE2MTUtNDIuNDUyODMyIDEuMDYyMzIzeiIgZmlsbD0iIzM5MzkzOSIvPjxwYXRoIGQ9Im0xNDIuMjE2OTg0IDUwLjk5MTUwMjIgMjUuNDcxNjk4IDU5LjQ5MDA4NTggMTEuNjc0NTI4IDE3My4xNTg2NDNoNDEuMzkxNTExbDEyLjczNTg0OS0xNzMuMTU4NjQzIDIzLjM0OTA1Ni01OS40OTAwODU4eiIgZmlsbD0iI2Y4OWMzNSIvPjxwYXRoIGQ9Im0zMC43NzgzMDIzIDE4MS42NTcyMjYtMjkuNzE2OTgxNTMgODYuMDQ4MTYxIDc0LjI5MjQ1MzkzLTQuMjQ5MjkzaDQ3Ljc1OTQzNDN2LTM3LjE4MTMwM2wtMi4xMjI2NDEtNzYuNDg3MjUzLTEwLjYxMzIwOCA4LjQ5ODU4M3oiIGZpbGw9IiNmODlkMzUiLz48cGF0aCBkPSJtODcuMDI4MzAzMiAxOTEuMjE4MTM0IDg3LjAyODMwMjggMi4xMjQ2NDYtOS41NTE4ODYgNDQuNjE3NTYzLTQxLjM5MTUxMS0xMC42MjMyMjl6IiBmaWxsPSIjZDg3YzMwIi8+PHBhdGggZD0ibTg3LjAyODMwMzIgMTkyLjI4MDQ1NyAzNi4wODQ5MDU4IDMzLjk5NDMzNHYzMy45OTQzMzR6IiBmaWxsPSIjZWE4ZDNhIi8+PHBhdGggZD0ibTEyMy4xMTMyMDkgMjI3LjMzNzExNCA0Mi40NTI4MzEgMTAuNjIzMjI5IDEzLjc5NzE3IDQ1LjY3OTg4OC05LjU1MTg4NiA1LjMxMTYxNS00Ni42OTgxMTUtMjcuNjIwMzk4eiIgZmlsbD0iI2Y4OWQzNSIvPjxwYXRoIGQ9Im0xMjMuMTEzMjA5IDI2MS4zMzE0NDgtOC40OTA1NjUgNjUuODY0MDI0IDU2LjI1LTM5LjMwNTk0OXoiIGZpbGw9IiNlYjhmMzUiLz48cGF0aCBkPSJtMTc0LjA1NjYwNiAxOTMuMzQyNzggNS4zMDY2MDQgOTAuMjk3NDUxLTE1LjkxOTgxMi00Ni4yMTEwNDl6IiBmaWxsPSIjZWE4ZTNhIi8+PHBhdGggZD0ibTc0LjI5MjQ1MzkgMjYyLjM5Mzc3MSA0OC44MjA3NTUxLTEuMDYyMzIzLTguNDkwNTY1IDY1Ljg2NDAyNHoiIGZpbGw9IiNkODdjMzAiLz48cGF0aCBkPSJtMjQuNDEwMzc3NyAzNTUuODc4MTkzIDkwLjIxMjI2NjMtMjguNjgyNzIxLTQwLjMzMDE5MDEtNjQuODAxNzAxLTczLjIzMTEzMzEzIDUuMzExNjE2eiIgZmlsbD0iI2ViOGYzNSIvPjxwYXRoIGQ9Im0xNjcuNjg4NjgyIDExMC40ODE1ODgtNDUuNjM2NzkzIDM4LjI0MzYyNy0zNS4wMjM1ODU4IDQyLjQ5MjkxOSA4Ny4wMjgzMDI4IDMuMTg2OTY5eiIgZmlsbD0iI2U4ODIxZSIvPjxwYXRoIGQ9Im0xMTQuNjIyNjQ0IDMyNy4xOTU0NzIgNTYuMjUtMzkuMzA1OTQ5LTQuMjQ1MjgzIDMzLjk5NDMzNHYxOS4xMjE4MTNsLTM4LjIwNzU0OC03LjQzNjI2eiIgZmlsbD0iI2RmY2VjMyIvPjxwYXRoIGQ9Im0yMjkuMjQ1Mjg2IDMyNy4xOTU0NzIgNTUuMTg4NjgtMzkuMzA1OTQ5LTQuMjQ1MjgzIDMzLjk5NDMzNHYxOS4xMjE4MTNsLTM4LjIwNzU0OC03LjQzNjI2eiIgZmlsbD0iI2RmY2VjMyIgdHJhbnNmb3JtPSJtYXRyaXgoLTEgMCAwIDEgNTEzLjY3OTI1MiAwKSIvPjxwYXRoIGQ9Im0xMzIuNjY1MDk2IDIxMi40NjQ1OTMtMTEuNjc0NTI4IDI0LjQzMzQyNyA0MS4zOTE1MS0xMC42MjMyMjl6IiBmaWxsPSIjMzkzOTM5IiB0cmFuc2Zvcm09Im1hdHJpeCgtMSAwIDAgMSAyODMuMzcyNjQ2IDApIi8+PHBhdGggZD0ibTIzLjM0OTA1NyAxLjA2MjMyMjk2IDE0NC4zMzk2MjUgMTA5LjQxOTI2NTA0LTI0LjQxMDM3OC01OS40OTAwODU4eiIgZmlsbD0iI2U4OGYzNSIvPjxwYXRoIGQ9Im0yMy4zNDkwNTcgMS4wNjIzMjI5Ni0xOS4xMDM3NzM5MiA1OC40Mjc3NjI5NCAxMC42MTMyMDc3MiA2My43MzkzNzgxLTcuNDI5MjQ1NDEgNC4yNDkyOTIgMTAuNjEzMjA3NzEgOS41NjA5MDYtOC40OTA1NjYxNyA3LjQzNjI2MSAxMS42NzQ1Mjg0NyAxMC42MjMyMjktNy40MjkyNDU0IDYuMzczOTM4IDE2Ljk4MTEzMjMgMjEuMjQ2NDU5IDc5LjU5OTA1NzctMjQuNDMzNDI4YzM4LjkxNTA5Ni0zMS4xNjE0NzMgNTguMDE4ODY5LTQ3LjA5NjMxOCA1Ny4zMTEzMjItNDcuODA0NTMzLS43MDc1NDgtLjcwODIxNS00OC44MjA3NTYtMzcuMTgxMzAzNi0xNDQuMzM5NjI1LTEwOS40MTkyNjUwNHoiIGZpbGw9IiM4ZTVhMzAiLz48ZyB0cmFuc2Zvcm09Im1hdHJpeCgtMSAwIDAgMSAzOTkuMDU2NjExIDApIj48cGF0aCBkPSJtMzAuNzc4MzAyMyAxODEuNjU3MjI2LTI5LjcxNjk4MTUzIDg2LjA0ODE2MSA3NC4yOTI0NTM5My00LjI0OTI5M2g0Ny43NTk0MzQzdi0zNy4xODEzMDNsLTIuMTIyNjQxLTc2LjQ4NzI1My0xMC42MTMyMDggOC40OTg1ODN6IiBmaWxsPSIjZjg5ZDM1Ii8+PHBhdGggZD0ibTg3LjAyODMwMzIgMTkxLjIxODEzNCA4Ny4wMjgzMDI4IDIuMTI0NjQ2LTkuNTUxODg2IDQ0LjYxNzU2My00MS4zOTE1MTEtMTAuNjIzMjI5eiIgZmlsbD0iI2Q4N2MzMCIvPjxwYXRoIGQ9Im04Ny4wMjgzMDMyIDE5Mi4yODA0NTcgMzYuMDg0OTA1OCAzMy45OTQzMzR2MzMuOTk0MzM0eiIgZmlsbD0iI2VhOGQzYSIvPjxwYXRoIGQ9Im0xMjMuMTEzMjA5IDIyNy4zMzcxMTQgNDIuNDUyODMxIDEwLjYyMzIyOSAxMy43OTcxNyA0NS42Nzk4ODgtOS41NTE4ODYgNS4zMTE2MTUtNDYuNjk4MTE1LTI3LjYyMDM5OHoiIGZpbGw9IiNmODlkMzUiLz48cGF0aCBkPSJtMTIzLjExMzIwOSAyNjEuMzMxNDQ4LTguNDkwNTY1IDY1Ljg2NDAyNCA1NS4xODg2OC0zOC4yNDM2MjZ6IiBmaWxsPSIjZWI4ZjM1Ii8+PHBhdGggZD0ibTE3NC4wNTY2MDYgMTkzLjM0Mjc4IDUuMzA2NjA0IDkwLjI5NzQ1MS0xNS45MTk4MTItNDYuMjExMDQ5eiIgZmlsbD0iI2VhOGUzYSIvPjxwYXRoIGQ9Im03NC4yOTI0NTM5IDI2Mi4zOTM3NzEgNDguODIwNzU1MS0xLjA2MjMyMy04LjQ5MDU2NSA2NS44NjQwMjR6IiBmaWxsPSIjZDg3YzMwIi8+PHBhdGggZD0ibTI0LjQxMDM3NzcgMzU1Ljg3ODE5MyA5MC4yMTIyNjYzLTI4LjY4MjcyMS00MC4zMzAxOTAxLTY0LjgwMTcwMS03My4yMzExMzMxMyA1LjMxMTYxNnoiIGZpbGw9IiNlYjhmMzUiLz48cGF0aCBkPSJtMTY3LjY4ODY4MiAxMTAuNDgxNTg4LTQ1LjYzNjc5MyAzOC4yNDM2MjctMzUuMDIzNTg1OCA0Mi40OTI5MTkgODcuMDI4MzAyOCAzLjE4Njk2OXoiIGZpbGw9IiNlODgyMWUiLz48cGF0aCBkPSJtMTMyLjY2NTA5NiAyMTIuNDY0NTkzLTExLjY3NDUyOCAyNC40MzM0MjcgNDEuMzkxNTEtMTAuNjIzMjI5eiIgZmlsbD0iIzM5MzkzOSIgdHJhbnNmb3JtPSJtYXRyaXgoLTEgMCAwIDEgMjgzLjM3MjY0NiAwKSIvPjxwYXRoIGQ9Im0yMy4zNDkwNTcgMS4wNjIzMjI5NiAxNDQuMzM5NjI1IDEwOS40MTkyNjUwNC0yNC40MTAzNzgtNTkuNDkwMDg1OHoiIGZpbGw9IiNlODhmMzUiLz48cGF0aCBkPSJtMjMuMzQ5MDU3IDEuMDYyMzIyOTYtMTkuMTAzNzczOTIgNTguNDI3NzYyOTQgMTAuNjEzMjA3NzIgNjMuNzM5Mzc4MS03LjQyOTI0NTQxIDQuMjQ5MjkyIDEwLjYxMzIwNzcxIDkuNTYwOTA2LTguNDkwNTY2MTcgNy40MzYyNjEgMTEuNjc0NTI4NDcgMTAuNjIzMjI5LTcuNDI5MjQ1NCA2LjM3MzkzOCAxNi45ODExMzIzIDIxLjI0NjQ1OSA3OS41OTkwNTc3LTI0LjQzMzQyOGMzOC45MTUwOTYtMzEuMTYxNDczIDU4LjAxODg2OS00Ny4wOTYzMTggNTcuMzExMzIyLTQ3LjgwNDUzMy0uNzA3NTQ4LS43MDgyMTUtNDguODIwNzU2LTM3LjE4MTMwMzYtMTQ0LjMzOTYyNS0xMDkuNDE5MjY1MDR6IiBmaWxsPSIjOGU1YTMwIi8+PC9nPjwvZz48L3N2Zz4=" alt="MetaMask"></div><div class="sc-gtssRu bktcUM web3modal-provider-name">MetaMask</div><div class="sc-dlnjPT eFHlqH web3modal-provider-description">Connect to your MetaMask Wallet</div></div></div><div class="sc-eCApGN cjAFRf web3modal-provider-wrapper"><div class="sc-hKFyIo jcNZzC web3modal-provider-container"><div class="sc-bdnylx jMhaxE web3modal-provider-icon"><img src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHdpZHRoPSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxyYWRpYWxHcmFkaWVudCBpZD0iYSIgY3g9IjEuODEzMTMyJSIgY3k9IjUwJSIgcj0iOTguMTg2ODY4JSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNDI0MjQyIi8+PHN0b3Agb2Zmc2V0PSIxIi8+PC9yYWRpYWxHcmFkaWVudD48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Im0yNTYgMGMxNDEuMzg0ODk2IDAgMjU2IDExNC42MTUxMDQgMjU2IDI1NiAwIDE0MS4zODQ4OTYtMTE0LjYxNTEwNCAyNTYtMjU2IDI1Ni0xNDEuMzg0ODk2IDAtMjU2LTExNC42MTUxMDQtMjU2LTI1NiAwLTE0MS4zODQ4OTYgMTE0LjYxNTEwNC0yNTYgMjU2LTI1NnoiIGZpbGw9InVybCgjYSkiLz48cGF0aCBkPSJtMTM3LjkwMjM0NCAyNDIuNzYxNzE5LTE1LjgyMDMxMyA1NS45NTcwMzFoLTE2LjY5OTIxOWwtMjIuMzgyODEyLTg0LjU1MDc4MWgxOC4zOTg0MzhsMTMuMTgzNTkzIDU5LjU4OTg0M2guOTM3NWwxNS40MTAxNTctNTkuNTg5ODQzaDE0Ljk0MTQwNmwxNS43MDMxMjUgNTkuNTg5ODQzaC45Mzc1bDEzLjA2NjQwNi01OS41ODk4NDNoMTguMjgxMjVsLTIyLjQ0MTQwNiA4NC41NTA3ODFoLTE2LjU4MjAzMWwtMTUuOTk2MDk0LTU1Ljk1NzAzMXptMTI3LjMyNDIxOCA0MC44Mzk4NDN2MTUuMTE3MTg4aC01Ni4wMTU2MjR2LTg0LjU1MDc4MWg1Ni4wMTU2MjR2MTUuMTE3MTg3aC0zOC4zMjAzMTJ2MTkuNzQ2MDk0aDM2LjE1MjM0NHYxNC4wMDM5MDZoLTM2LjE1MjM0NHYyMC41NjY0MDZ6bTU2LjYwMTU2MyAxNS4xMTcxODhoLTM3Ljk2ODc1di04NC41NTA3ODFoMzYuOTcyNjU2YzE2LjQwNjI1IDAgMjYuMTkxNDA3IDguMDI3MzQzIDI2LjE5MTQwNyAyMS4wOTM3NSAwIDguOTY0ODQzLTYuNjIxMDk0IDE2Ljc1NzgxMi0xNS4yOTI5NjkgMTguMDQ2ODc1djEuMDU0Njg3YzExLjE5MTQwNi44MjAzMTMgMTkuMzM1OTM3IDkuMjU3ODEzIDE5LjMzNTkzNyAyMC4xNTYyNSAwIDE0LjgyNDIxOS0xMS4xOTE0MDYgMjQuMTk5MjE5LTI5LjIzODI4MSAyNC4xOTkyMTl6bS0yMC4yNzM0MzctNzEuMDE1NjI1djIxLjUwMzkwNmgxMy4zMDA3ODFjOS41NTA3ODEgMCAxNC43NjU2MjUtMy45MjU3ODEgMTQuNzY1NjI1LTEwLjcyMjY1NiAwLTYuNzM4MjgxLTQuODYzMjgyLTEwLjc4MTI1LTEzLjMwMDc4Mi0xMC43ODEyNXptMCA1Ny40ODA0NjloMTUuNzYxNzE4YzEwLjE5NTMxMyAwIDE1LjcwMzEyNS00LjI3NzM0NCAxNS43MDMxMjUtMTIuMTg3NSAwLTcuNzM0Mzc1LTUuNjgzNTkzLTExLjgzNTkzOC0xNi4xMTMyODEtMTEuODM1OTM4aC0xNS4zNTE1NjJ6bTg0LjQzMzU5My0yMy4xNDQ1MzJ2LTEzLjE4MzU5M2gxMC4zMTI1YzguMDI3MzQ0IDAgMTMuNDc2NTYzLTQuNjg3NSAxMy40NzY1NjMtMTEuNjAxNTYzIDAtNi43OTY4NzUtNS4yNzM0MzgtMTEuMTMyODEyLTEzLjUzNTE1Ni0xMS4xMzI4MTItOC4yMDMxMjYgMC0xMy42NTIzNDQgNC42Mjg5MDYtMTQuMTIxMDk0IDExLjk1MzEyNWgtMTYuMzQ3NjU2Yy41ODU5MzctMTUuOTk2MDk0IDEyLjQ4MDQ2OC0yNi4wNzQyMTkgMzAuOTM3NS0yNi4wNzQyMTkgMTcuMzQzNzUgMCAyOS44MjQyMTggOS40OTIxODggMjkuODI0MjE4IDIyLjc5Mjk2OSAwIDkuNzg1MTU2LTYuMTUyMzQ0IDE3LjQwMjM0My0xNS41ODU5MzcgMTkuMzM1OTM3djEuMDU0Njg4YzExLjYwMTU2MiAxLjI4OTA2MiAxOC44NjcxODcgOS4wMjM0MzcgMTguODY3MTg3IDIwLjE1NjI1IDAgMTQuODI0MjE4LTEzLjk0NTMxMiAyNS41NDY4NzUtMzMuMjIyNjU2IDI1LjU0Njg3NS0xOC44NjcxODggMC0zMS42NDA2MjUtMTAuNDI5Njg4LTMyLjQwMjM0NC0yNi4zNjcxODhoMTYuOTMzNTk0Yy41MjczNDQgNy4xNDg0MzggNi41NjI1IDExLjY2MDE1NyAxNS42NDQ1MzEgMTEuNjYwMTU3IDguODQ3NjU3IDAgMTUtNC45ODA0NjkgMTUtMTIuMTg3NSAwLTcuMzgyODEzLTUuODAwNzgxLTExLjk1MzEyNi0xNS4yOTI5NjktMTEuOTUzMTI2eiIgZmlsbD0iI2ZmZiIvPjwvZz48L3N2Zz4=" alt="Coinbase"></div><div class="sc-gtssRu bktcUM web3modal-provider-name">Coinbase</div><div class="sc-dlnjPT eFHlqH web3modal-provider-description">Scan with WalletLink to connect</div></div></div></div></div></div></div></body></html>
