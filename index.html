@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Huxley Demo</title>
+</head>
+<body>
+  <nav>
+    <div class="navbar">
+      <div class="logo">
+        <h1>HUXLEY</h1>
+        <h4>DEMO</h4>
+        </div>
+      <div class="nav-items">
+        <!-- <ul>
+          <li class="nav-item"><a href="#">Check Token</a></li>
+          <li class="nav-item"><a href="#">Avatars</a></li>
+          <li class="nav-item"><a href="#">Auction</a></li>
+          <li class="nav-item"><a href="#">Collection</a></li>
+          <li class="nav-item"><a href="#">FAQ</a></li>
+          <li class="nav-item"><a href="#">About</a></li>
+          <li class="nav-item"><a href="#">Tokenonmics</a></li>
+        </ul> -->
+          <a href="#" class="nav-item">Check Token</a>
+          <a href="#" class="nav-item">Avatars</a>
+          <a href="#" class="nav-item">Auction</a>
+          <a href="#" class="nav-item">Collection</a>
+          <a href="#" class="nav-item">FAQ</a>
+          <a href="#" class="nav-item">About</a>
+          <a href="#" class="nav-item">Tokenonmics</a>
+          <button class="btn btn-outline">Connect Wallet</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Showcase Video -->
+  <!-- <div class="video fullscreen-bg">
+    <video
+      muted
+      autoplay
+      loop
+      id="trailer"
+      src="/vid/Huxley-Trailer.mp4"
+      type="video/mp4">
+    </video>
+  </div> -->
+
+  <div class="showcase">
+    <img src="/img/showcase-img2.png" alt="">
+  </div>
+  
+  <!-- Issues -->
+  <div class="issues">
+    <div class="issue-item">
+      <img src="/img/issue1.jpg" alt="">
+      <h3 class="primary-text">Issue 1</h3>
+      <h3 class="secondary-text">Edition of 10,000</h3>
+    </div>
+    <div class="issue-item">
+      <img src="/img/issue2.jpg" alt="">
+      <h3 class="primary-text">Issue 2</h3>
+      <h3 class="secondary-text">Edition of 10,000</h3>
+    </div>
+    <div class="issue-item">
+      <img src="/img/issue3.jpg" alt="">
+      <h3 class="primary-text">Issue 3</h3>
+      <h3 class="secondary-text">Edition of 10,000</h3>
+    </div>
+    <div class="issue-item">
+      <img src="/img/issue4.jpg" alt="">
+      <h3 class="primary-text">Issue 4</h3>
+      <h3 class="secondary-text">Edition of 10,000</h3>
+    </div>
+    <div class="issue-item">
+      <img src="/img/issue5.jpg" alt="">
+      <h3 class="primary-text">Issue 5</h3>
+      <h3 class="secondary-text">Edition of 10,000</h3>
+    </div>
+    <div class="issue-item">
+      <img src="/img/issue6.jpg" alt="">
+      <h3 class="primary-text">Issue 6</h3>
+      <h3 class="secondary-text">Edition of 10,000</h3>
+    </div>
+  </div>
+
+  <div class="showcase-issue">
+    <div class="current-issue">
+      <img src="/img/issue3.jpg" alt="">
+    </div>
+    <div class="issue-description">
+      <h3>ISSUE #3</h3>
+      <h1>HUXLEY Comic</h1>
+      <p>Max, Kai and Huxley escape with the help of a new friend to find the advanced machines to repair his damaged memory cores. An evil force pursues them.</p>
+      <span>To access the digital download go to the Collection page, connect your wallet and click on the highlighted issue.</span>
+      <h2>Issue #3 has <span>SOLD OUT</span></h2>
+      <h2>Check us out on <a href="https://opensea.io/collection/huxley-comics">OpenSea</a></h2>
+    </div>
+  </div>
+
+  <!-- Roadmap -->
+  <div class="roadmap-title">
+    <h2>HUXLEY</h2>
+    <h1>Roadmap</h1>
+  </div>
+  <div class="raribles">
+    <div class="rarible-items">
+      <img src="/img/digital-physical.png" alt="">
+      <h1>Huxley Comics - Digital + Physical</h1>
+      <h2>Six exclusive issues. One incredible journey. Available for purchase and digital download as NFTs and redeemable for physical editions. Join the hunt to complete the saga.</h2>
+    </div>
+    <div class="rarible-items">
+      <img src="/img/gold-edition.png" alt="">
+      <h1>Ultra Rare <br> 
+        Gold Editions</h1>
+      <h2>Like all things on Fury-7, resources are limited - especially for the Ultra Rare Gold Editions. Luck could play a role in obtaining these special edition digital + physical comics and collectibles.</h2>
+    </div>
+    <div class="rarible-items">
+      <img src="/img/access-pass.png" alt="">
+      <h1>Central A.I. <br> 
+        Access Pass</h1>
+      <h2>Want exclusive access to the entire Huxley universe? Central A.I. has issued a limited quantity of Access Passes. Only the most loyal will be worthy.</h2>
+    </div>
+  </div>
+
+  <!-- Phase One -->
+  <div class="phase-one-section">
+    <hr>
+    <div class="phase-one">
+      <h1>PHASE ONE</h1>
+    </div>
+    <!-- access -->
+    <div id="phase-two" class="phase-two" onclick="changeText()">
+        <i class="fa-solid fa-lock fa-5x"></i>
+        <h2 id="phase-two-title" class="phase-two-title">PHASE TWO</h2>
+        <h2 id="machine-city-enter" class="machine-city-enter">MACHINE CITY</h2>
+        <!-- <h2 id="machine-city-denied" class="machine-city-denied">ACCESS DENIED</h2> -->
+    </div>
+  </div>
+
+  <div class="raribles">
+    <div class="rarible-items">
+      <img src="/img/physical-collectible.png" alt="">
+      <h1>Digital + Physical <br>
+          Collectibles</h1>
+      <h2>Your favorite characters from Sector 217, available as NFT and physical collectibles. Choose from Max, Karmak, Demon, Necro Trooper, Scrape, Kai and of course Huxley, or collect them all!</h2>
+    </div>
+    <div class="rarible-items">
+      <img src="/img/meta-fashion.png" alt="">
+      <h1>Metaverse  <br> 
+        Fashion</h1>
+      <h2>Designs and fashion from the wastelands of Fury-7, wearable anywhere across the metaverse. Set your avatar apart with the latest gear from Sector 217.</h2>
+    </div>
+    <div class="rarible-items">
+      <img src="/img/Genisis-token.png" alt="">
+      <h1>Airdrops + <br> 
+        Giveaways</h1>
+      <h2>Your journey into the Huxley universe has just begun… Who knows what you might discover. As always, Central A.I. is watching. Your loyalty just might be rewarded.</h2>
+    </div>
+  </div>
+
+  <!-- Creator -->
+  <div class="creator">
+    <h1>Creator</h1>
+    <div class="creator-profile">
+      <img class="profile-pic" src="/img/profile-image.jpg" alt="">
+      <div class="creator-items">
+        <h2><span>Ben Mauro</span></h2>
+        <p>World builder. Character creator. NFT artist. Ben Mauro’s work has made a powerful impact on the gaming world, as senior concept designer and art director for first-person-shooting dynasties Halo and Call of Duty. His visions have graced the big screen in Elysium, Chappie, and J.R.R. Tolkien’s The Hobbit. Now he unveils his fully-fledged graphic novel series, Huxley.</p>
+
+        <h3><span>Past Clients</span></h3>
+        <div class="past-clients-grid">
+          <img src="/img/client1.jpg" alt="">
+          <img src="/img/client2.jpg" alt="">
+          <img src="/img/client3.jpg" alt="">
+          <img src="/img/client4.jpg" alt="">
+          <img src="/img/client5.jpg" alt="">
+          <img src="/img/client6.jpg" alt="">
+          <img src="/img/client7.jpg" alt="">
+          <img src="/img/client8.jpg" alt="">
+          <img src="/img/client9.jpg" alt="">
+          <img src="/img/client10.jpg" alt="">
+        </div>
+        <div class="creator-from">
+          <img src="/img/creator-from1.jpg" alt="">
+          <img src="/img/creator-from2.jpg" alt="">
+          <img src="/img/creator-from3.jpg" alt="">
+        </div>
+        <button class="learn-btn">Learn More</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Team -->
+  <div class="team">
+    <h1>Team</h1>
+    <div class="team-grid">
+      <div class="team-grid-item">
+        <img src="/img/team1.jpg" alt="">
+        <h3>CEO + Founder of Feature</h3>
+        <h2>Steven Ilous</h2>
+        <p>A visionary entrepreneur and creative professional with over 20 years of feature film, video game, and web experience, Steven has worked closely with some of the greatest talents in entertainment. Inspired by Steven’s dream to build a better system for creators, Feature is building a new platform for buying and selling intellectual property.</p>
+
+        <div class="social">
+          <i class="fa-brands fa-twitter-square"></i>
+          <a href="https://twitter.com/stevenilous">@stevenilous</a>
+        </div>
+      </div>
+
+      <div class="team-grid-item">
+        <img src="/img/team2.jpg" alt="">
+        <h3>Lead Developer</h3>
+        <h2>Seb Brocher</h2>
+        <p>Seb is a technology entrepreneur and developer with a passion and talent for the arts. Seb developed CryptoArte, one of the first generative art NFT projects on the Ethereum network, and is the founder and CEO of Chimichurri, a software development company.</p>
+
+        <div class="social">
+          <i class="fa-brands fa-twitter-square"></i>
+          <a href="https://twitter.com/CryptoArte">@CryptoArte</a>
+        </div>
+      </div>
+
+      <div class="team-grid-item">
+        <img src="/img/team3.jpg" alt="">
+        <h3>Marketing Director</h3>
+        <h2>Oliver Permut</h2>
+        <p>A multi-disciplined creative with experience in the music, entertainment, hospitality and tech industries, Oliver brings unique insight and passion to each project. He has lead social campaigns for the world’s premier electronic music festival, made commercials for Vice Media in Berlin, and spearheaded hospitality start-up initiatives in Miami.</p>
+
+        <div class="social">
+          <i class="fa-brands fa-twitter-square"></i>
+          <a href="https://twitter.com/oliverpermut">@oliverpermut</a>
+        </div>
+      </div>
+
+      <div class="team-grid-item">
+        <img src="/img/team4.jpg" alt="">
+        <h3>Head of Community</h3>
+        <h2>Kasandra Vegas</h2>
+        <p>Educator. Community builder. Co-Founder of NFTs.Tips. In the rapidly emerging NFT space, Kas bridges the gap between art, tech, culture and provenance, and brings an enthusiastic voice to new projects, ventures, and creators.</p>
+
+        <div class="social">
+          <i class="fa-brands fa-twitter-square"></i>
+          <a href="https://twitter.com/kas__vegas">@kas__vegas</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- footer -->
+  <div class="footer">
+    <div class="footer-top">
+      <h1>HUXLEY</h1>
+      <div class="footer-social">
+        <h2>FAQ</h2>
+        <h2>Terms of Use</h2>
+        <h2>Privacy Policy</h2>
+        <i class="fa-brands fa-twitter fa-2x"></i>
+        <i class="fa-brands fa-discord fa-2x"></i>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="powered-by">
+        <h3>Powered By</h3>
+        <h2>FEATURE</h2>
+      </div>
+      <h3>TM & &copy; Huxley LLC All Rights Reserved</h3>
+    </div>
+  </div>
+
+<script src="app.js"></script>
+</body>
+</html>
