@@ -21,6 +21,14 @@ a {
   color: #fff;
 }
 
+/* portal */
+.portal {
+  position: fixed;
+  right: 75px;
+  bottom: 75px;
+  background-color: transparent;
+}
+
 /* body */
 body {
   background-color: #000;
