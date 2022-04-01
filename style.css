@@ -27,6 +27,11 @@ a {
   right: 75px;
   bottom: 75px;
   background-color: transparent;
+  z-index: 10;
+}
+
+.portal a img {
+  height: 75px;
 }
 
 /* body */
