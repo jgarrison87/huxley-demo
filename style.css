@@ -675,7 +675,7 @@ align-items: center;
   }
 }
 
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 360px) {
 
   .burger {
     margin: 35px;
@@ -693,9 +693,19 @@ align-items: center;
     width: 100%;
   }
 
-  .team-grid {
-    grid-template-columns: 1fr;   
+  .team .team-grid {
+    display: flex;
+    flex-direction: column;   
   } 
+
+  .team-grid .team-grid-item p {
+    font-size: 10px;
+    margin-bottom: 30px;
+  }
+
+  .team-grid .team-grid-item .social a {
+    font-size: 12px;
+  }
 
   .creator-profile {
     width: 300px;
