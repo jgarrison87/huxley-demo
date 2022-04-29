@@ -675,7 +675,7 @@ align-items: center;
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 850px) {
 
   .burger {
     margin: 35px;
@@ -685,26 +685,60 @@ align-items: center;
     height: 175px;
   }
 
-  .current-issue {
-    width: 300px;
+  .showcase-issue .current-issue {
+    width: 400px;
   }
 
-  .current-issue img {
-    width: 100%;
+  .showcase-issue .current-issue img {
+    width: 400px;
+    height: 500px;
+    margin: auto;
+  }
+
+  .rarible-items img {
+    width: 500px;
+    height: 500px;
+  }
+
+  .creator {
+    width: 80%;
+    margin: auto;
+  }
+
+  .creator .creator-profile {
+    width: 500px;
+  }
+
+  .creator .creator-profile img {
+    height: 500px;
+  }
+
+  .creator .creator-profile .creator-items .past-clients-grid img {
+    width: 150px;
+    height: 100px;
+  }
+
+  .creator .creator-profile .creator-items .creator-from img {
+    height: 100px;
+    padding: 20px;
   }
 
   .team .team-grid {
-    display: flex;
-    flex-direction: column;   
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); 
   } 
 
   .team-grid .team-grid-item p {
-    font-size: 10px;
+    font-size: 20px;
     margin-bottom: 30px;
   }
 
   .team-grid .team-grid-item .social a {
-    font-size: 12px;
+    font-size: 20px;
+  }
+
+  .team-grid-item {
+    width: 100%;
   }
 
   .creator-profile {
@@ -724,10 +758,7 @@ align-items: center;
     display: flex;
     flex-direction: column;
   }
-
-  .team-grid-item {
-    width: 100%;
-  }
+  
 
   .footer {
     display: flex;
@@ -760,5 +791,49 @@ align-items: center;
 
   .footer-bottom h3{
     font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+  .showcase-issue .current-issue {
+    width: 350px;
+  }
+
+  .showcase-issue .issue-description {
+    width: 350px;
+  }
+
+  .showcase-issue .current-issue img {
+    width: 350px;
+    height: 500px;
+    margin: auto;
+  }
+
+  .rarible-items img {
+    width: 350px;
+    height: 350px;
+  }
+
+  .creator {
+    width: 100%;
+  }
+
+  .creator .creator-profile {
+    width: 100%;
+  }
+
+  .creator .creator-profile img {
+    height: 350px;
+  }
+
+  .creator .creator-profile .creator-items .past-clients-grid img {
+    width: 150px;
+    height: 100px;
+  }
+
+  .creator .creator-profile .creator-items .creator-from img {
+    height: 100px;
+    padding: 20px;
   }
 }
